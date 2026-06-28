@@ -1,0 +1,3392 @@
+[
+  {
+    "rank": 1,
+    "german": "sein",
+    "english": "to be",
+    "partOfSpeech": "verb",
+    "difficulty": "A1",
+    "pronunciation": "/zaɪn/",
+    "exampleGerman": "Ich bin müde.",
+    "exampleEnglish": "I am tired.",
+    "memoryTip": "Sounds like 'sign' — you sign in to say you ARE here.",
+    "tags": [
+      "verb",
+      "essential",
+      "irregular"
+    ],
+    "grammarNote": "Irregular: ich bin, du bist, er ist.",
+    "usageNote": "The most common verb; also the possessive 'his'."
+  },
+  {
+    "rank": 2,
+    "german": "haben",
+    "english": "to have",
+    "partOfSpeech": "verb",
+    "difficulty": "A1",
+    "pronunciation": "/ˈhaːbn̩/",
+    "exampleGerman": "Ich habe Zeit.",
+    "exampleEnglish": "I have time.",
+    "memoryTip": "'Haben' ≈ 'have', almost the same.",
+    "tags": [
+      "verb",
+      "essential",
+      "irregular"
+    ],
+    "grammarNote": "Irregular: ich habe, du hast, er hat.",
+    "usageNote": "Used to form the perfect tense."
+  },
+  {
+    "rank": 3,
+    "german": "werden",
+    "english": "to become",
+    "partOfSpeech": "verb",
+    "difficulty": "A1",
+    "pronunciation": "/ˈveːɐ̯dn̩/",
+    "exampleGerman": "Es wird kalt.",
+    "exampleEnglish": "It is getting cold.",
+    "memoryTip": "'Werden' → 'worden/weird' — things turn weird/become.",
+    "tags": [
+      "verb",
+      "essential",
+      "irregular"
+    ],
+    "grammarNote": "ich werde, du wirst, er wird.",
+    "usageNote": "Also builds future and passive."
+  },
+  {
+    "rank": 4,
+    "german": "können",
+    "english": "can, to be able to",
+    "partOfSpeech": "verb",
+    "difficulty": "A1",
+    "pronunciation": "/ˈkœnən/",
+    "exampleGerman": "Ich kann schwimmen.",
+    "exampleEnglish": "I can swim.",
+    "memoryTip": "'Können' ≈ 'can'.",
+    "tags": [
+      "verb",
+      "essential",
+      "modal"
+    ],
+    "grammarNote": "Modal: ich kann, du kannst, er kann.",
+    "usageNote": "Followed by an infinitive at the end."
+  },
+  {
+    "rank": 5,
+    "german": "müssen",
+    "english": "must, to have to",
+    "partOfSpeech": "verb",
+    "difficulty": "A1",
+    "pronunciation": "/ˈmʏsn̩/",
+    "exampleGerman": "Ich muss gehen.",
+    "exampleEnglish": "I have to go.",
+    "memoryTip": "'Müssen' ≈ 'must'.",
+    "tags": [
+      "verb",
+      "essential",
+      "modal"
+    ],
+    "grammarNote": "Modal: ich muss, du musst, er muss.",
+    "usageNote": "Obligation; infinitive goes to the end."
+  },
+  {
+    "rank": 6,
+    "german": "machen",
+    "english": "to do, to make",
+    "partOfSpeech": "verb",
+    "difficulty": "A1",
+    "pronunciation": "/ˈmaxn̩/",
+    "exampleGerman": "Was machst du?",
+    "exampleEnglish": "What are you doing?",
+    "memoryTip": "'Machen' → 'make'.",
+    "tags": [
+      "verb",
+      "essential"
+    ],
+    "grammarNote": "ich mache, du machst, er macht.",
+    "usageNote": "Extremely versatile everyday verb."
+  },
+  {
+    "rank": 7,
+    "german": "gehen",
+    "english": "to go",
+    "partOfSpeech": "verb",
+    "difficulty": "A1",
+    "pronunciation": "/ˈɡeːən/",
+    "exampleGerman": "Ich gehe nach Hause.",
+    "exampleEnglish": "I am going home.",
+    "memoryTip": "'Gehen' → 'go'.",
+    "tags": [
+      "verb",
+      "essential",
+      "movement"
+    ],
+    "grammarNote": "ich gehe, du gehst, er geht.",
+    "usageNote": "On foot; for vehicles use 'fahren'."
+  },
+  {
+    "rank": 8,
+    "german": "kommen",
+    "english": "to come",
+    "partOfSpeech": "verb",
+    "difficulty": "A1",
+    "pronunciation": "/ˈkɔmən/",
+    "exampleGerman": "Komm her!",
+    "exampleEnglish": "Come here!",
+    "memoryTip": "'Kommen' → 'come'.",
+    "tags": [
+      "verb",
+      "essential",
+      "movement"
+    ],
+    "grammarNote": "ich komme, du kommst, er kommt.",
+    "usageNote": "'Woher kommst du?' = Where are you from?"
+  },
+  {
+    "rank": 9,
+    "german": "sehen",
+    "english": "to see",
+    "partOfSpeech": "verb",
+    "difficulty": "A1",
+    "pronunciation": "/ˈzeːən/",
+    "exampleGerman": "Ich sehe dich.",
+    "exampleEnglish": "I see you.",
+    "memoryTip": "'Sehen' → 'see' (the 'eh' is a long 'ay').",
+    "tags": [
+      "verb",
+      "essential"
+    ],
+    "grammarNote": "ich sehe, du siehst, er sieht.",
+    "usageNote": "Vowel changes to 'ie' for du/er."
+  },
+  {
+    "rank": 10,
+    "german": "geben",
+    "english": "to give",
+    "partOfSpeech": "verb",
+    "difficulty": "A1",
+    "pronunciation": "/ˈɡeːbn̩/",
+    "exampleGerman": "Gib mir das Buch.",
+    "exampleEnglish": "Give me the book.",
+    "memoryTip": "'Geben' → 'give'.",
+    "tags": [
+      "verb",
+      "essential"
+    ],
+    "grammarNote": "ich gebe, du gibst, er gibt.",
+    "usageNote": "'Es gibt' = there is/are."
+  },
+  {
+    "rank": 11,
+    "german": "sagen",
+    "english": "to say",
+    "partOfSpeech": "verb",
+    "difficulty": "A1",
+    "pronunciation": "/ˈzaːɡn̩/",
+    "exampleGerman": "Was sagst du?",
+    "exampleEnglish": "What do you say?",
+    "memoryTip": "'Sagen' → 'say'.",
+    "tags": [
+      "verb",
+      "essential"
+    ],
+    "grammarNote": "ich sage, du sagst, er sagt.",
+    "usageNote": "Regular and very frequent."
+  },
+  {
+    "rank": 12,
+    "german": "wissen",
+    "english": "to know (a fact)",
+    "partOfSpeech": "verb",
+    "difficulty": "A2",
+    "pronunciation": "/ˈvɪsn̩/",
+    "exampleGerman": "Ich weiß es nicht.",
+    "exampleEnglish": "I don't know.",
+    "memoryTip": "'Wissen' → 'wise' — a wise person knows.",
+    "tags": [
+      "verb",
+      "irregular"
+    ],
+    "grammarNote": "Irregular: ich weiß, du weißt, er weiß.",
+    "usageNote": "Facts; for people/places use 'kennen'."
+  },
+  {
+    "rank": 13,
+    "german": "finden",
+    "english": "to find",
+    "partOfSpeech": "verb",
+    "difficulty": "A1",
+    "pronunciation": "/ˈfɪndn̩/",
+    "exampleGerman": "Ich finde es gut.",
+    "exampleEnglish": "I think it's good.",
+    "memoryTip": "'Finden' → 'find'.",
+    "tags": [
+      "verb",
+      "essential"
+    ],
+    "grammarNote": "ich finde, du findest, er findet.",
+    "usageNote": "Also 'to find/think' an opinion."
+  },
+  {
+    "rank": 14,
+    "german": "denken",
+    "english": "to think",
+    "partOfSpeech": "verb",
+    "difficulty": "A2",
+    "pronunciation": "/ˈdɛŋkn̩/",
+    "exampleGerman": "Ich denke an dich.",
+    "exampleEnglish": "I am thinking of you.",
+    "memoryTip": "'Denken' → 'think'.",
+    "tags": [
+      "verb",
+      "mental"
+    ],
+    "grammarNote": "ich denke, du denkst, er denkt.",
+    "usageNote": "'denken an' + accusative."
+  },
+  {
+    "rank": 15,
+    "german": "nehmen",
+    "english": "to take",
+    "partOfSpeech": "verb",
+    "difficulty": "A1",
+    "pronunciation": "/ˈneːmən/",
+    "exampleGerman": "Ich nehme den Bus.",
+    "exampleEnglish": "I take the bus.",
+    "memoryTip": "Picture you 'name' the thing you take.",
+    "tags": [
+      "verb",
+      "essential",
+      "irregular"
+    ],
+    "grammarNote": "ich nehme, du nimmst, er nimmt.",
+    "usageNote": "Strong vowel change to 'i'."
+  },
+  {
+    "rank": 16,
+    "german": "sprechen",
+    "english": "to speak",
+    "partOfSpeech": "verb",
+    "difficulty": "A1",
+    "pronunciation": "/ˈʃprɛçn̩/",
+    "exampleGerman": "Sprichst du Deutsch?",
+    "exampleEnglish": "Do you speak German?",
+    "memoryTip": "'Sprechen' → 'speech/speak'.",
+    "tags": [
+      "verb",
+      "essential"
+    ],
+    "grammarNote": "ich spreche, du sprichst, er spricht.",
+    "usageNote": "e→i vowel change."
+  },
+  {
+    "rank": 17,
+    "german": "essen",
+    "english": "to eat",
+    "partOfSpeech": "verb",
+    "difficulty": "A1",
+    "pronunciation": "/ˈɛsn̩/",
+    "exampleGerman": "Ich esse einen Apfel.",
+    "exampleEnglish": "I am eating an apple.",
+    "memoryTip": "'Essen' → think 'edible'.",
+    "tags": [
+      "verb",
+      "essential",
+      "food"
+    ],
+    "grammarNote": "ich esse, du isst, er isst.",
+    "usageNote": "e→i; 'das Essen' = food/meal."
+  },
+  {
+    "rank": 18,
+    "german": "trinken",
+    "english": "to drink",
+    "partOfSpeech": "verb",
+    "difficulty": "A1",
+    "pronunciation": "/ˈtrɪŋkn̩/",
+    "exampleGerman": "Ich trinke Wasser.",
+    "exampleEnglish": "I drink water.",
+    "memoryTip": "'Trinken' → 'drink'.",
+    "tags": [
+      "verb",
+      "essential",
+      "food"
+    ],
+    "grammarNote": "ich trinke, du trinkst, er trinkt.",
+    "usageNote": "Regular."
+  },
+  {
+    "rank": 19,
+    "german": "kaufen",
+    "english": "to buy",
+    "partOfSpeech": "verb",
+    "difficulty": "A1",
+    "pronunciation": "/ˈkaʊfn̩/",
+    "exampleGerman": "Ich kaufe Brot.",
+    "exampleEnglish": "I buy bread.",
+    "memoryTip": "Picture a 'cow' you 'buy' — kaufen.",
+    "tags": [
+      "verb",
+      "shopping"
+    ],
+    "grammarNote": "ich kaufe, du kaufst, er kauft.",
+    "usageNote": "'verkaufen' = to sell."
+  },
+  {
+    "rank": 20,
+    "german": "arbeiten",
+    "english": "to work",
+    "partOfSpeech": "verb",
+    "difficulty": "A1",
+    "pronunciation": "/ˈaʁbaɪtn̩/",
+    "exampleGerman": "Ich arbeite viel.",
+    "exampleEnglish": "I work a lot.",
+    "memoryTip": "'Arbeit' = work, like 'labour' rearranged.",
+    "tags": [
+      "verb",
+      "work"
+    ],
+    "grammarNote": "ich arbeite, du arbeitest, er arbeitet.",
+    "usageNote": "Adds an 'e' before -st/-t."
+  },
+  {
+    "rank": 21,
+    "german": "wohnen",
+    "english": "to live, to reside",
+    "partOfSpeech": "verb",
+    "difficulty": "A1",
+    "pronunciation": "/ˈvoːnən/",
+    "exampleGerman": "Ich wohne in Berlin.",
+    "exampleEnglish": "I live in Berlin.",
+    "memoryTip": "You feel 'at one' (won) where you live.",
+    "tags": [
+      "verb",
+      "essential"
+    ],
+    "grammarNote": "ich wohne, du wohnst, er wohnt.",
+    "usageNote": "Residence; for being alive use 'leben'."
+  },
+  {
+    "rank": 22,
+    "german": "lernen",
+    "english": "to learn, to study",
+    "partOfSpeech": "verb",
+    "difficulty": "A1",
+    "pronunciation": "/ˈlɛʁnən/",
+    "exampleGerman": "Ich lerne Deutsch.",
+    "exampleEnglish": "I am learning German.",
+    "memoryTip": "'Lernen' → 'learn'.",
+    "tags": [
+      "verb",
+      "essential"
+    ],
+    "grammarNote": "ich lerne, du lernst, er lernt.",
+    "usageNote": "Regular."
+  },
+  {
+    "rank": 23,
+    "german": "spielen",
+    "english": "to play",
+    "partOfSpeech": "verb",
+    "difficulty": "A1",
+    "pronunciation": "/ˈʃpiːlən/",
+    "exampleGerman": "Kinder spielen gern.",
+    "exampleEnglish": "Children like to play.",
+    "memoryTip": "'Spielen' → 'spiel/play'.",
+    "tags": [
+      "verb",
+      "leisure"
+    ],
+    "grammarNote": "ich spiele, du spielst, er spielt.",
+    "usageNote": "Games, sport and instruments."
+  },
+  {
+    "rank": 24,
+    "german": "fahren",
+    "english": "to drive, to go (by vehicle)",
+    "partOfSpeech": "verb",
+    "difficulty": "A1",
+    "pronunciation": "/ˈfaːʁən/",
+    "exampleGerman": "Ich fahre nach Köln.",
+    "exampleEnglish": "I am driving to Cologne.",
+    "memoryTip": "'Fahren' → 'fare' on a journey.",
+    "tags": [
+      "verb",
+      "movement",
+      "irregular"
+    ],
+    "grammarNote": "ich fahre, du fährst, er fährt.",
+    "usageNote": "a→ä vowel change."
+  },
+  {
+    "rank": 25,
+    "german": "schlafen",
+    "english": "to sleep",
+    "partOfSpeech": "verb",
+    "difficulty": "A1",
+    "pronunciation": "/ˈʃlaːfn̩/",
+    "exampleGerman": "Ich schlafe gut.",
+    "exampleEnglish": "I sleep well.",
+    "memoryTip": "'Schlafen' → 'sleep' (sch-l).",
+    "tags": [
+      "verb",
+      "daily",
+      "irregular"
+    ],
+    "grammarNote": "ich schlafe, du schläfst, er schläft.",
+    "usageNote": "a→ä change."
+  },
+  {
+    "rank": 26,
+    "german": "helfen",
+    "english": "to help",
+    "partOfSpeech": "verb",
+    "difficulty": "A2",
+    "pronunciation": "/ˈhɛlfn̩/",
+    "exampleGerman": "Kannst du mir helfen?",
+    "exampleEnglish": "Can you help me?",
+    "memoryTip": "'Helfen' → 'help'.",
+    "tags": [
+      "verb",
+      "social"
+    ],
+    "grammarNote": "ich helfe, du hilfst, er hilft.",
+    "usageNote": "Takes the dative: 'mir helfen'."
+  },
+  {
+    "rank": 27,
+    "german": "brauchen",
+    "english": "to need",
+    "partOfSpeech": "verb",
+    "difficulty": "A1",
+    "pronunciation": "/ˈbʁaʊxn̩/",
+    "exampleGerman": "Ich brauche Hilfe.",
+    "exampleEnglish": "I need help.",
+    "memoryTip": "Think: I 'brauch' a break — I need one.",
+    "tags": [
+      "verb",
+      "essential"
+    ],
+    "grammarNote": "ich brauche, du brauchst, er braucht.",
+    "usageNote": "Regular; very common."
+  },
+  {
+    "rank": 28,
+    "german": "verstehen",
+    "english": "to understand",
+    "partOfSpeech": "verb",
+    "difficulty": "A1",
+    "pronunciation": "/fɛɐ̯ˈʃteːən/",
+    "exampleGerman": "Ich verstehe nicht.",
+    "exampleEnglish": "I don't understand.",
+    "memoryTip": "'Ver-stehen' = stand under → under-stand.",
+    "tags": [
+      "verb",
+      "essential"
+    ],
+    "grammarNote": "ich verstehe, du verstehst, er versteht.",
+    "usageNote": "Inseparable prefix 'ver-'."
+  },
+  {
+    "rank": 29,
+    "german": "lieben",
+    "english": "to love",
+    "partOfSpeech": "verb",
+    "difficulty": "A1",
+    "pronunciation": "/ˈliːbn̩/",
+    "exampleGerman": "Ich liebe dich.",
+    "exampleEnglish": "I love you.",
+    "memoryTip": "'Lieben' → 'love' (the 'lie' = 'lee').",
+    "tags": [
+      "verb",
+      "emotion"
+    ],
+    "grammarNote": "ich liebe, du liebst, er liebt.",
+    "usageNote": "Strong feeling; 'mögen' = to like."
+  },
+  {
+    "rank": 30,
+    "german": "der Mann",
+    "english": "the man",
+    "partOfSpeech": "noun",
+    "difficulty": "A1",
+    "pronunciation": "/man/",
+    "exampleGerman": "Der Mann ist groß.",
+    "exampleEnglish": "The man is tall.",
+    "memoryTip": "'Mann' → 'man'.",
+    "tags": [
+      "noun",
+      "people"
+    ],
+    "grammarNote": "Masculine: der/ein Mann; plural die Männer.",
+    "usageNote": "Also means 'husband' in context."
+  },
+  {
+    "rank": 31,
+    "german": "die Frau",
+    "english": "the woman",
+    "partOfSpeech": "noun",
+    "difficulty": "A1",
+    "pronunciation": "/fʁaʊ/",
+    "exampleGerman": "Die Frau liest.",
+    "exampleEnglish": "The woman is reading.",
+    "memoryTip": "'Frau' also = 'Mrs', a title for a woman.",
+    "tags": [
+      "noun",
+      "people"
+    ],
+    "grammarNote": "Feminine: die/eine Frau; plural die Frauen.",
+    "usageNote": "Also 'wife' and the title 'Ms/Mrs'."
+  },
+  {
+    "rank": 32,
+    "german": "das Kind",
+    "english": "the child",
+    "partOfSpeech": "noun",
+    "difficulty": "A1",
+    "pronunciation": "/kɪnt/",
+    "exampleGerman": "Das Kind spielt.",
+    "exampleEnglish": "The child is playing.",
+    "memoryTip": "'Kind' → think 'kindergarten'.",
+    "tags": [
+      "noun",
+      "people",
+      "family"
+    ],
+    "grammarNote": "Neuter: das/ein Kind; plural die Kinder.",
+    "usageNote": "Plural 'Kinder' gave English 'kindergarten'."
+  },
+  {
+    "rank": 33,
+    "german": "das Haus",
+    "english": "the house",
+    "partOfSpeech": "noun",
+    "difficulty": "A1",
+    "pronunciation": "/haʊs/",
+    "exampleGerman": "Das Haus ist alt.",
+    "exampleEnglish": "The house is old.",
+    "memoryTip": "'Haus' → 'house'.",
+    "tags": [
+      "noun",
+      "home"
+    ],
+    "grammarNote": "Neuter: das/ein Haus; plural die Häuser.",
+    "usageNote": "'nach Hause' = (going) home."
+  },
+  {
+    "rank": 34,
+    "german": "die Stadt",
+    "english": "the city, town",
+    "partOfSpeech": "noun",
+    "difficulty": "A1",
+    "pronunciation": "/ʃtat/",
+    "exampleGerman": "Die Stadt ist schön.",
+    "exampleEnglish": "The city is beautiful.",
+    "memoryTip": "A 'stat'ely place full of people.",
+    "tags": [
+      "noun",
+      "place"
+    ],
+    "grammarNote": "Feminine: die/eine Stadt; plural die Städte."
+  },
+  {
+    "rank": 35,
+    "german": "das Wasser",
+    "english": "the water",
+    "partOfSpeech": "noun",
+    "difficulty": "A1",
+    "pronunciation": "/ˈvasɐ/",
+    "exampleGerman": "Das Wasser ist kalt.",
+    "exampleEnglish": "The water is cold.",
+    "memoryTip": "'Wasser' → 'water' (w sounds like v).",
+    "tags": [
+      "noun",
+      "food",
+      "nature"
+    ],
+    "grammarNote": "Neuter: das Wasser.",
+    "usageNote": "Usually uncountable."
+  },
+  {
+    "rank": 36,
+    "german": "das Buch",
+    "english": "the book",
+    "partOfSpeech": "noun",
+    "difficulty": "A1",
+    "pronunciation": "/buːx/",
+    "exampleGerman": "Das Buch ist gut.",
+    "exampleEnglish": "The book is good.",
+    "memoryTip": "'Buch' → 'book'.",
+    "tags": [
+      "noun",
+      "object",
+      "school"
+    ],
+    "grammarNote": "Neuter: das/ein Buch; plural die Bücher."
+  },
+  {
+    "rank": 37,
+    "german": "der Tag",
+    "english": "the day",
+    "partOfSpeech": "noun",
+    "difficulty": "A1",
+    "pronunciation": "/taːk/",
+    "exampleGerman": "Guten Tag!",
+    "exampleEnglish": "Good day!",
+    "memoryTip": "'Tag' → 'day' (rhymes-ish).",
+    "tags": [
+      "noun",
+      "time"
+    ],
+    "grammarNote": "Masculine: der/ein Tag; plural die Tage.",
+    "usageNote": "'Guten Tag' is the standard greeting."
+  },
+  {
+    "rank": 38,
+    "german": "die Zeit",
+    "english": "the time",
+    "partOfSpeech": "noun",
+    "difficulty": "A1",
+    "pronunciation": "/tsaɪt/",
+    "exampleGerman": "Ich habe keine Zeit.",
+    "exampleEnglish": "I have no time.",
+    "memoryTip": "'Zeit' sounds like 'tsight' — time flies in sight.",
+    "tags": [
+      "noun",
+      "time"
+    ],
+    "grammarNote": "Feminine: die Zeit.",
+    "usageNote": "'keine Zeit' = no time."
+  },
+  {
+    "rank": 39,
+    "german": "das Jahr",
+    "english": "the year",
+    "partOfSpeech": "noun",
+    "difficulty": "A1",
+    "pronunciation": "/jaːɐ̯/",
+    "exampleGerman": "Ein gutes Jahr!",
+    "exampleEnglish": "A good year!",
+    "memoryTip": "'Jahr' → 'year' (j = y).",
+    "tags": [
+      "noun",
+      "time"
+    ],
+    "grammarNote": "Neuter: das/ein Jahr; plural die Jahre."
+  },
+  {
+    "rank": 40,
+    "german": "die Arbeit",
+    "english": "the work, job",
+    "partOfSpeech": "noun",
+    "difficulty": "A1",
+    "pronunciation": "/ˈaʁbaɪt/",
+    "exampleGerman": "Die Arbeit macht Spaß.",
+    "exampleEnglish": "The work is fun.",
+    "memoryTip": "Related to English 'arbeit/labour'.",
+    "tags": [
+      "noun",
+      "work"
+    ],
+    "grammarNote": "Feminine: die Arbeit.",
+    "usageNote": "Both 'work' and 'a job'."
+  },
+  {
+    "rank": 41,
+    "german": "das Geld",
+    "english": "the money",
+    "partOfSpeech": "noun",
+    "difficulty": "A1",
+    "pronunciation": "/ɡɛlt/",
+    "exampleGerman": "Ich habe kein Geld.",
+    "exampleEnglish": "I have no money.",
+    "memoryTip": "'Geld' → think 'gold' = money.",
+    "tags": [
+      "noun",
+      "money"
+    ],
+    "grammarNote": "Neuter: das Geld.",
+    "usageNote": "Usually uncountable."
+  },
+  {
+    "rank": 42,
+    "german": "die Schule",
+    "english": "the school",
+    "partOfSpeech": "noun",
+    "difficulty": "A1",
+    "pronunciation": "/ˈʃuːlə/",
+    "exampleGerman": "Die Schule beginnt.",
+    "exampleEnglish": "School is starting.",
+    "memoryTip": "'Schule' → 'school'.",
+    "tags": [
+      "noun",
+      "school",
+      "place"
+    ],
+    "grammarNote": "Feminine: die/eine Schule; plural die Schulen."
+  },
+  {
+    "rank": 43,
+    "german": "der Freund",
+    "english": "the friend (male)",
+    "partOfSpeech": "noun",
+    "difficulty": "A1",
+    "pronunciation": "/fʁɔɪnt/",
+    "exampleGerman": "Er ist mein Freund.",
+    "exampleEnglish": "He is my friend.",
+    "memoryTip": "'Freund' → 'friend'.",
+    "tags": [
+      "noun",
+      "people",
+      "social"
+    ],
+    "grammarNote": "Masculine: der/ein Freund; fem. die Freundin.",
+    "usageNote": "Can also mean 'boyfriend'."
+  },
+  {
+    "rank": 44,
+    "german": "die Hand",
+    "english": "the hand",
+    "partOfSpeech": "noun",
+    "difficulty": "A1",
+    "pronunciation": "/hant/",
+    "exampleGerman": "Gib mir deine Hand.",
+    "exampleEnglish": "Give me your hand.",
+    "memoryTip": "'Hand' → 'hand'.",
+    "tags": [
+      "noun",
+      "body"
+    ],
+    "grammarNote": "Feminine: die/eine Hand; plural die Hände."
+  },
+  {
+    "rank": 45,
+    "german": "das Auto",
+    "english": "the car",
+    "partOfSpeech": "noun",
+    "difficulty": "A1",
+    "pronunciation": "/ˈaʊto/",
+    "exampleGerman": "Das Auto ist neu.",
+    "exampleEnglish": "The car is new.",
+    "memoryTip": "'Auto' → 'automobile'.",
+    "tags": [
+      "noun",
+      "object",
+      "transport"
+    ],
+    "grammarNote": "Neuter: das/ein Auto; plural die Autos."
+  },
+  {
+    "rank": 46,
+    "german": "die Liebe",
+    "english": "the love",
+    "partOfSpeech": "noun",
+    "difficulty": "A2",
+    "pronunciation": "/ˈliːbə/",
+    "exampleGerman": "Liebe ist schön.",
+    "exampleEnglish": "Love is beautiful.",
+    "memoryTip": "Related to the verb 'lieben' (to love).",
+    "tags": [
+      "noun",
+      "emotion"
+    ],
+    "grammarNote": "Feminine: die Liebe."
+  },
+  {
+    "rank": 47,
+    "german": "gut",
+    "english": "good",
+    "partOfSpeech": "adjective",
+    "difficulty": "A1",
+    "pronunciation": "/ɡuːt/",
+    "exampleGerman": "Das ist sehr gut.",
+    "exampleEnglish": "That is very good.",
+    "memoryTip": "'Gut' → 'good'.",
+    "tags": [
+      "adjective",
+      "essential",
+      "quality"
+    ],
+    "grammarNote": "Comparative: besser; superlative: am besten.",
+    "usageNote": "Adverb too: 'gut machen'."
+  },
+  {
+    "rank": 48,
+    "german": "schlecht",
+    "english": "bad",
+    "partOfSpeech": "adjective",
+    "difficulty": "A1",
+    "pronunciation": "/ʃlɛçt/",
+    "exampleGerman": "Das Wetter ist schlecht.",
+    "exampleEnglish": "The weather is bad.",
+    "memoryTip": "'Schlecht' — sounds harsh, like something bad.",
+    "tags": [
+      "adjective",
+      "quality"
+    ],
+    "grammarNote": "Comparative: schlechter.",
+    "usageNote": "Opposite of 'gut'."
+  },
+  {
+    "rank": 49,
+    "german": "groß",
+    "english": "big, tall",
+    "partOfSpeech": "adjective",
+    "difficulty": "A1",
+    "pronunciation": "/ɡʁoːs/",
+    "exampleGerman": "Ein großes Haus.",
+    "exampleEnglish": "A big house.",
+    "memoryTip": "'Groß' → 'gross' = large amount.",
+    "tags": [
+      "adjective",
+      "quality"
+    ],
+    "grammarNote": "Comparative: größer; superlative: am größten.",
+    "usageNote": "Both 'big' and 'tall'."
+  },
+  {
+    "rank": 50,
+    "german": "klein",
+    "english": "small",
+    "partOfSpeech": "adjective",
+    "difficulty": "A1",
+    "pronunciation": "/klaɪn/",
+    "exampleGerman": "Ein kleines Kind.",
+    "exampleEnglish": "A small child.",
+    "memoryTip": "'Klein' → think 'kline/decline' to tiny.",
+    "tags": [
+      "adjective",
+      "quality"
+    ],
+    "grammarNote": "Comparative: kleiner.",
+    "usageNote": "Opposite of 'groß'."
+  },
+  {
+    "rank": 51,
+    "german": "neu",
+    "english": "new",
+    "partOfSpeech": "adjective",
+    "difficulty": "A1",
+    "pronunciation": "/nɔɪ/",
+    "exampleGerman": "Ein neues Auto.",
+    "exampleEnglish": "A new car.",
+    "memoryTip": "'Neu' → 'new'.",
+    "tags": [
+      "adjective",
+      "quality"
+    ],
+    "grammarNote": "Comparative: neuer."
+  },
+  {
+    "rank": 52,
+    "german": "alt",
+    "english": "old",
+    "partOfSpeech": "adjective",
+    "difficulty": "A1",
+    "pronunciation": "/alt/",
+    "exampleGerman": "Mein altes Fahrrad.",
+    "exampleEnglish": "My old bike.",
+    "memoryTip": "'Alt' → 'old' / 'ancient'.",
+    "tags": [
+      "adjective",
+      "quality"
+    ],
+    "grammarNote": "Comparative: älter.",
+    "usageNote": "Also 'how old': 'Wie alt bist du?'"
+  },
+  {
+    "rank": 53,
+    "german": "schön",
+    "english": "beautiful, nice",
+    "partOfSpeech": "adjective",
+    "difficulty": "A1",
+    "pronunciation": "/ʃøːn/",
+    "exampleGerman": "Ein schöner Tag.",
+    "exampleEnglish": "A beautiful day.",
+    "memoryTip": "'Schön' → 'shown' off because it's pretty.",
+    "tags": [
+      "adjective",
+      "quality",
+      "emotion"
+    ],
+    "grammarNote": "Comparative: schöner.",
+    "usageNote": "Also 'schön!' = lovely/great."
+  },
+  {
+    "rank": 54,
+    "german": "wichtig",
+    "english": "important",
+    "partOfSpeech": "adjective",
+    "difficulty": "A2",
+    "pronunciation": "/ˈvɪçtɪç/",
+    "exampleGerman": "Das ist wichtig.",
+    "exampleEnglish": "That is important.",
+    "memoryTip": "Has 'weight' (Gewicht) — important things carry weight.",
+    "tags": [
+      "adjective",
+      "quality"
+    ],
+    "grammarNote": "Comparative: wichtiger."
+  },
+  {
+    "rank": 55,
+    "german": "schnell",
+    "english": "fast, quick",
+    "partOfSpeech": "adjective",
+    "difficulty": "A1",
+    "pronunciation": "/ʃnɛl/",
+    "exampleGerman": "Das Auto ist schnell.",
+    "exampleEnglish": "The car is fast.",
+    "memoryTip": "'Schnell' — say it fast, it sounds quick.",
+    "tags": [
+      "adjective",
+      "quality"
+    ],
+    "grammarNote": "Comparative: schneller.",
+    "usageNote": "Adverb: 'schnell laufen' = run fast."
+  },
+  {
+    "rank": 56,
+    "german": "langsam",
+    "english": "slow",
+    "partOfSpeech": "adjective",
+    "difficulty": "A1",
+    "pronunciation": "/ˈlaŋzaːm/",
+    "exampleGerman": "Bitte sprich langsam.",
+    "exampleEnglish": "Please speak slowly.",
+    "memoryTip": "'Lang-sam' = long + same, dragging on slowly.",
+    "tags": [
+      "adjective",
+      "quality"
+    ],
+    "grammarNote": "Comparative: langsamer.",
+    "usageNote": "Opposite of 'schnell'."
+  },
+  {
+    "rank": 57,
+    "german": "glücklich",
+    "english": "happy",
+    "partOfSpeech": "adjective",
+    "difficulty": "A2",
+    "pronunciation": "/ˈɡlʏklɪç/",
+    "exampleGerman": "Ich bin glücklich.",
+    "exampleEnglish": "I am happy.",
+    "memoryTip": "Contains 'Glück' = luck/happiness.",
+    "tags": [
+      "adjective",
+      "emotion"
+    ],
+    "grammarNote": "Comparative: glücklicher."
+  },
+  {
+    "rank": 58,
+    "german": "müde",
+    "english": "tired",
+    "partOfSpeech": "adjective",
+    "difficulty": "A1",
+    "pronunciation": "/ˈmyːdə/",
+    "exampleGerman": "Ich bin sehr müde.",
+    "exampleEnglish": "I am very tired.",
+    "memoryTip": "'Müde' → think 'mood/muted' energy.",
+    "tags": [
+      "adjective",
+      "state"
+    ],
+    "grammarNote": "Comparative: müder."
+  },
+  {
+    "rank": 59,
+    "german": "ich",
+    "english": "I",
+    "partOfSpeech": "pronoun",
+    "difficulty": "A1",
+    "pronunciation": "/ɪç/",
+    "exampleGerman": "Ich heiße Anna.",
+    "exampleEnglish": "My name is Anna.",
+    "memoryTip": "'Ich' = the German 'I'.",
+    "tags": [
+      "pronoun",
+      "essential",
+      "grammar"
+    ],
+    "grammarNote": "Subject (nominative) pronoun.",
+    "usageNote": "Not capitalised mid-sentence."
+  },
+  {
+    "rank": 60,
+    "german": "du",
+    "english": "you (informal)",
+    "partOfSpeech": "pronoun",
+    "difficulty": "A1",
+    "pronunciation": "/duː/",
+    "exampleGerman": "Wie heißt du?",
+    "exampleEnglish": "What's your name?",
+    "memoryTip": "'Du' → 'thou', the old English 'you'.",
+    "tags": [
+      "pronoun",
+      "essential",
+      "grammar"
+    ],
+    "grammarNote": "Informal singular subject pronoun.",
+    "usageNote": "Use with friends, family, children."
+  },
+  {
+    "rank": 61,
+    "german": "er",
+    "english": "he",
+    "partOfSpeech": "pronoun",
+    "difficulty": "A1",
+    "pronunciation": "/eːɐ̯/",
+    "exampleGerman": "Er ist mein Bruder.",
+    "exampleEnglish": "He is my brother.",
+    "memoryTip": "'Er' = he (the masculine one).",
+    "tags": [
+      "pronoun",
+      "essential",
+      "grammar"
+    ],
+    "grammarNote": "Masculine singular subject pronoun."
+  },
+  {
+    "rank": 62,
+    "german": "sie",
+    "english": "she; they",
+    "partOfSpeech": "pronoun",
+    "difficulty": "A1",
+    "pronunciation": "/ziː/",
+    "exampleGerman": "Sie ist nett.",
+    "exampleEnglish": "She is nice.",
+    "memoryTip": "'Sie' covers 'she', 'they' and formal 'you'.",
+    "tags": [
+      "pronoun",
+      "essential",
+      "grammar"
+    ],
+    "grammarNote": "Verb form distinguishes she vs they.",
+    "usageNote": "Capital 'Sie' = formal 'you'."
+  },
+  {
+    "rank": 63,
+    "german": "wir",
+    "english": "we",
+    "partOfSpeech": "pronoun",
+    "difficulty": "A1",
+    "pronunciation": "/viːɐ̯/",
+    "exampleGerman": "Wir lernen Deutsch.",
+    "exampleEnglish": "We are learning German.",
+    "memoryTip": "'Wir' → 'we' (w = v).",
+    "tags": [
+      "pronoun",
+      "essential",
+      "grammar"
+    ],
+    "grammarNote": "First-person plural pronoun."
+  },
+  {
+    "rank": 64,
+    "german": "nicht",
+    "english": "not",
+    "partOfSpeech": "adverb",
+    "difficulty": "A1",
+    "pronunciation": "/nɪçt/",
+    "exampleGerman": "Ich weiß es nicht.",
+    "exampleEnglish": "I don't know.",
+    "memoryTip": "'Nicht' → 'not'.",
+    "tags": [
+      "adverb",
+      "essential",
+      "grammar"
+    ],
+    "grammarNote": "Negates verbs and adjectives.",
+    "usageNote": "For nouns use 'kein'."
+  },
+  {
+    "rank": 65,
+    "german": "sehr",
+    "english": "very",
+    "partOfSpeech": "adverb",
+    "difficulty": "A1",
+    "pronunciation": "/zeːɐ̯/",
+    "exampleGerman": "Das ist sehr gut.",
+    "exampleEnglish": "That is very good.",
+    "memoryTip": "'Sehr' → think 'sore' very much.",
+    "tags": [
+      "adverb",
+      "essential"
+    ],
+    "grammarNote": "Intensifier before adjectives/adverbs."
+  },
+  {
+    "rank": 66,
+    "german": "auch",
+    "english": "also, too",
+    "partOfSpeech": "adverb",
+    "difficulty": "A1",
+    "pronunciation": "/aʊx/",
+    "exampleGerman": "Ich auch!",
+    "exampleEnglish": "Me too!",
+    "memoryTip": "'Auch' → think 'owch, me too'.",
+    "tags": [
+      "adverb",
+      "essential"
+    ],
+    "grammarNote": "Adverb of addition."
+  },
+  {
+    "rank": 67,
+    "german": "immer",
+    "english": "always",
+    "partOfSpeech": "adverb",
+    "difficulty": "A1",
+    "pronunciation": "/ˈɪmɐ/",
+    "exampleGerman": "Sie ist immer pünktlich.",
+    "exampleEnglish": "She is always punctual.",
+    "memoryTip": "'Immer' → think 'evermore' = always.",
+    "tags": [
+      "adverb",
+      "time"
+    ],
+    "grammarNote": "Adverb of frequency."
+  },
+  {
+    "rank": 68,
+    "german": "heute",
+    "english": "today",
+    "partOfSpeech": "adverb",
+    "difficulty": "A1",
+    "pronunciation": "/ˈhɔɪtə/",
+    "exampleGerman": "Heute ist Montag.",
+    "exampleEnglish": "Today is Monday.",
+    "memoryTip": "'Heute' = this day, today.",
+    "tags": [
+      "adverb",
+      "time"
+    ],
+    "grammarNote": "Time adverb."
+  },
+  {
+    "rank": 69,
+    "german": "morgen",
+    "english": "tomorrow",
+    "partOfSpeech": "adverb",
+    "difficulty": "A1",
+    "pronunciation": "/ˈmɔʁɡn̩/",
+    "exampleGerman": "Bis morgen!",
+    "exampleEnglish": "See you tomorrow!",
+    "memoryTip": "'Morgen' = morning AND tomorrow.",
+    "tags": [
+      "adverb",
+      "time"
+    ],
+    "grammarNote": "Lowercase = tomorrow; 'der Morgen' = morning.",
+    "usageNote": "'Guten Morgen' = good morning."
+  },
+  {
+    "rank": 70,
+    "german": "jetzt",
+    "english": "now",
+    "partOfSpeech": "adverb",
+    "difficulty": "A1",
+    "pronunciation": "/jɛtst/",
+    "exampleGerman": "Ich gehe jetzt.",
+    "exampleEnglish": "I am going now.",
+    "memoryTip": "'Jetzt' → say 'yetst' = right now.",
+    "tags": [
+      "adverb",
+      "time"
+    ],
+    "grammarNote": "Time adverb."
+  },
+  {
+    "rank": 71,
+    "german": "hier",
+    "english": "here",
+    "partOfSpeech": "adverb",
+    "difficulty": "A1",
+    "pronunciation": "/hiːɐ̯/",
+    "exampleGerman": "Ich bin hier.",
+    "exampleEnglish": "I am here.",
+    "memoryTip": "'Hier' → 'here'.",
+    "tags": [
+      "adverb",
+      "place"
+    ],
+    "grammarNote": "Place adverb."
+  },
+  {
+    "rank": 72,
+    "german": "und",
+    "english": "and",
+    "partOfSpeech": "conjunction",
+    "difficulty": "A1",
+    "pronunciation": "/ʊnt/",
+    "exampleGerman": "Brot und Butter.",
+    "exampleEnglish": "Bread and butter.",
+    "memoryTip": "'Und' → 'and'.",
+    "tags": [
+      "conjunction",
+      "essential",
+      "grammar"
+    ],
+    "grammarNote": "Coordinating conjunction; no word-order change."
+  },
+  {
+    "rank": 73,
+    "german": "oder",
+    "english": "or",
+    "partOfSpeech": "conjunction",
+    "difficulty": "A1",
+    "pronunciation": "/ˈoːdɐ/",
+    "exampleGerman": "Tee oder Kaffee?",
+    "exampleEnglish": "Tea or coffee?",
+    "memoryTip": "'Oder' → 'or' with an ending.",
+    "tags": [
+      "conjunction",
+      "essential",
+      "grammar"
+    ],
+    "grammarNote": "Coordinating conjunction."
+  },
+  {
+    "rank": 74,
+    "german": "aber",
+    "english": "but",
+    "partOfSpeech": "conjunction",
+    "difficulty": "A1",
+    "pronunciation": "/ˈaːbɐ/",
+    "exampleGerman": "Klein aber fein.",
+    "exampleEnglish": "Small but nice.",
+    "memoryTip": "'Aber' → think 'however'.",
+    "tags": [
+      "conjunction",
+      "essential",
+      "grammar"
+    ],
+    "grammarNote": "Coordinating conjunction."
+  },
+  {
+    "rank": 75,
+    "german": "weil",
+    "english": "because",
+    "partOfSpeech": "conjunction",
+    "difficulty": "A2",
+    "pronunciation": "/vaɪl/",
+    "exampleGerman": "Ich bleibe, weil es regnet.",
+    "exampleEnglish": "I'm staying because it's raining.",
+    "memoryTip": "'Weil' → think 'while/why' it happens.",
+    "tags": [
+      "conjunction",
+      "grammar"
+    ],
+    "grammarNote": "Subordinating: sends the verb to the end.",
+    "usageNote": "Verb-final clause: '..., weil es regnet.'"
+  },
+  {
+    "rank": 76,
+    "german": "wenn",
+    "english": "if, when",
+    "partOfSpeech": "conjunction",
+    "difficulty": "A2",
+    "pronunciation": "/vɛn/",
+    "exampleGerman": "Wenn es regnet, bleibe ich.",
+    "exampleEnglish": "If it rains, I'll stay.",
+    "memoryTip": "'Wenn' → 'when'.",
+    "tags": [
+      "conjunction",
+      "grammar"
+    ],
+    "grammarNote": "Subordinating: verb goes to the end.",
+    "usageNote": "Conditional/temporal."
+  },
+  {
+    "rank": 77,
+    "german": "in",
+    "english": "in, into",
+    "partOfSpeech": "preposition",
+    "difficulty": "A1",
+    "pronunciation": "/ɪn/",
+    "exampleGerman": "Ich bin in der Schule.",
+    "exampleEnglish": "I am in school.",
+    "memoryTip": "'In' → 'in'.",
+    "tags": [
+      "preposition",
+      "essential",
+      "grammar"
+    ],
+    "grammarNote": "Two-way: dative (location) or accusative (motion)."
+  },
+  {
+    "rank": 78,
+    "german": "mit",
+    "english": "with",
+    "partOfSpeech": "preposition",
+    "difficulty": "A1",
+    "pronunciation": "/mɪt/",
+    "exampleGerman": "Ich komme mit dir.",
+    "exampleEnglish": "I'm coming with you.",
+    "memoryTip": "'Mit' → think 'meet with'.",
+    "tags": [
+      "preposition",
+      "essential",
+      "grammar"
+    ],
+    "grammarNote": "Always takes the dative case."
+  },
+  {
+    "rank": 79,
+    "german": "auf",
+    "english": "on, onto",
+    "partOfSpeech": "preposition",
+    "difficulty": "A1",
+    "pronunciation": "/aʊf/",
+    "exampleGerman": "Das Buch ist auf dem Tisch.",
+    "exampleEnglish": "The book is on the table.",
+    "memoryTip": "'Auf' → think 'up/on top'.",
+    "tags": [
+      "preposition",
+      "grammar"
+    ],
+    "grammarNote": "Two-way preposition."
+  },
+  {
+    "rank": 80,
+    "german": "für",
+    "english": "for",
+    "partOfSpeech": "preposition",
+    "difficulty": "A1",
+    "pronunciation": "/fyːɐ̯/",
+    "exampleGerman": "Das ist für dich.",
+    "exampleEnglish": "That is for you.",
+    "memoryTip": "'Für' → 'for'.",
+    "tags": [
+      "preposition",
+      "essential",
+      "grammar"
+    ],
+    "grammarNote": "Always takes the accusative."
+  },
+  {
+    "rank": 81,
+    "german": "zu",
+    "english": "to; too",
+    "partOfSpeech": "preposition",
+    "difficulty": "A1",
+    "pronunciation": "/tsuː/",
+    "exampleGerman": "Ich gehe zu dir.",
+    "exampleEnglish": "I am going to your place.",
+    "memoryTip": "'Zu' → 'to' (ts sound).",
+    "tags": [
+      "preposition",
+      "essential",
+      "grammar"
+    ],
+    "grammarNote": "Dative as preposition; also 'too' as adverb.",
+    "usageNote": "'zu viel' = too much."
+  },
+  {
+    "rank": 82,
+    "german": "ja",
+    "english": "yes",
+    "partOfSpeech": "phrase",
+    "difficulty": "A1",
+    "pronunciation": "/jaː/",
+    "exampleGerman": "Ja, gerne!",
+    "exampleEnglish": "Yes, gladly!",
+    "memoryTip": "'Ja' → 'yeah'.",
+    "tags": [
+      "phrase",
+      "essential",
+      "social"
+    ],
+    "grammarNote": "Affirmative particle."
+  },
+  {
+    "rank": 83,
+    "german": "nein",
+    "english": "no",
+    "partOfSpeech": "phrase",
+    "difficulty": "A1",
+    "pronunciation": "/naɪn/",
+    "exampleGerman": "Nein, danke.",
+    "exampleEnglish": "No, thank you.",
+    "memoryTip": "'Nein' → 'nine' but means 'no'.",
+    "tags": [
+      "phrase",
+      "essential",
+      "social"
+    ],
+    "grammarNote": "Negative particle."
+  },
+  {
+    "rank": 84,
+    "german": "danke",
+    "english": "thank you",
+    "partOfSpeech": "phrase",
+    "difficulty": "A1",
+    "pronunciation": "/ˈdaŋkə/",
+    "exampleGerman": "Danke schön!",
+    "exampleEnglish": "Thank you very much!",
+    "memoryTip": "'Danke' → 'thanks'.",
+    "tags": [
+      "phrase",
+      "essential",
+      "social"
+    ],
+    "grammarNote": "Set expression.",
+    "usageNote": "'Danke schön' / 'Vielen Dank'."
+  },
+  {
+    "rank": 85,
+    "german": "bitte",
+    "english": "please; you're welcome",
+    "partOfSpeech": "phrase",
+    "difficulty": "A1",
+    "pronunciation": "/ˈbɪtə/",
+    "exampleGerman": "Bitte schön.",
+    "exampleEnglish": "Here you go / you're welcome.",
+    "memoryTip": "Multi-tool word: please AND you're welcome.",
+    "tags": [
+      "phrase",
+      "essential",
+      "social"
+    ],
+    "grammarNote": "Set expression.",
+    "usageNote": "Also 'pardon?' when asking to repeat."
+  },
+  {
+    "rank": 86,
+    "german": "Entschuldigung",
+    "english": "excuse me, sorry",
+    "partOfSpeech": "phrase",
+    "difficulty": "A1",
+    "pronunciation": "/ɛntˈʃʊldɪɡʊŋ/",
+    "exampleGerman": "Entschuldigung, wo ist der Bahnhof?",
+    "exampleEnglish": "Excuse me, where is the station?",
+    "memoryTip": "Long but lifesaving — 'sorry/excuse me'.",
+    "tags": [
+      "phrase",
+      "social",
+      "travel"
+    ],
+    "grammarNote": "Noun used as an interjection.",
+    "usageNote": "Get attention or apologise."
+  },
+  {
+    "rank": 87,
+    "german": "eins",
+    "english": "one",
+    "partOfSpeech": "number",
+    "difficulty": "A1",
+    "pronunciation": "/aɪns/",
+    "exampleGerman": "Nummer eins.",
+    "exampleEnglish": "Number one.",
+    "memoryTip": "'Eins' → 'one'.",
+    "tags": [
+      "number"
+    ],
+    "grammarNote": "Counting form; as article 'ein/eine'."
+  },
+  {
+    "rank": 88,
+    "german": "zwei",
+    "english": "two",
+    "partOfSpeech": "number",
+    "difficulty": "A1",
+    "pronunciation": "/tsvaɪ/",
+    "exampleGerman": "Zwei Kaffee, bitte.",
+    "exampleEnglish": "Two coffees, please.",
+    "memoryTip": "'Zwei' → 'twei/two'.",
+    "tags": [
+      "number"
+    ],
+    "usageNote": "Sometimes said 'zwo' on the phone."
+  },
+  {
+    "rank": 89,
+    "german": "drei",
+    "english": "three",
+    "partOfSpeech": "number",
+    "difficulty": "A1",
+    "pronunciation": "/dʁaɪ/",
+    "exampleGerman": "Drei Uhr.",
+    "exampleEnglish": "Three o'clock.",
+    "memoryTip": "'Drei' → 'three' (dr-).",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "rank": 90,
+    "german": "essen gehen",
+    "english": "to go out to eat",
+    "partOfSpeech": "phrase",
+    "difficulty": "A2",
+    "pronunciation": "/ˈɛsn̩ ˈɡeːən/",
+    "exampleGerman": "Wollen wir essen gehen?",
+    "exampleEnglish": "Shall we go out to eat?",
+    "memoryTip": "Two verbs: 'eat' + 'go'.",
+    "tags": [
+      "phrase",
+      "food",
+      "social"
+    ],
+    "grammarNote": "Verb + infinitive set phrase."
+  },
+  {
+    "rank": 91,
+    "german": "die Familie",
+    "english": "the family",
+    "partOfSpeech": "noun",
+    "difficulty": "A1",
+    "pronunciation": "/faˈmiːli̯ə/",
+    "exampleGerman": "Meine Familie ist groß.",
+    "exampleEnglish": "My family is big.",
+    "memoryTip": "'Familie' → 'family'.",
+    "tags": [
+      "noun",
+      "people",
+      "family"
+    ],
+    "grammarNote": "Feminine: die Familie."
+  },
+  {
+    "rank": 92,
+    "german": "trotzdem",
+    "english": "nevertheless, anyway",
+    "partOfSpeech": "adverb",
+    "difficulty": "B1",
+    "pronunciation": "/ˈtʁɔtsdeːm/",
+    "exampleGerman": "Es regnet; trotzdem gehe ich.",
+    "exampleEnglish": "It's raining; I'm going anyway.",
+    "memoryTip": "'Trotz' = despite → 'despite that'.",
+    "tags": [
+      "adverb",
+      "connector"
+    ],
+    "grammarNote": "Adverb; can trigger inversion."
+  },
+  {
+    "rank": 93,
+    "german": "vielleicht",
+    "english": "maybe, perhaps",
+    "partOfSpeech": "adverb",
+    "difficulty": "A2",
+    "pronunciation": "/fiˈlaɪçt/",
+    "exampleGerman": "Vielleicht komme ich.",
+    "exampleEnglish": "Maybe I'll come.",
+    "memoryTip": "'Viel-leicht' = 'much-light' → lightly possible.",
+    "tags": [
+      "adverb",
+      "connector"
+    ],
+    "grammarNote": "Sentence adverb."
+  },
+  {
+    "rank": 94,
+    "german": "die Möglichkeit",
+    "english": "the possibility, opportunity",
+    "partOfSpeech": "noun",
+    "difficulty": "B1",
+    "pronunciation": "/ˈmøːklɪçkaɪt/",
+    "exampleGerman": "Es gibt eine Möglichkeit.",
+    "exampleEnglish": "There is a possibility.",
+    "memoryTip": "From 'möglich' = possible.",
+    "tags": [
+      "noun",
+      "abstract"
+    ],
+    "grammarNote": "Feminine: die Möglichkeit; pl. -en."
+  },
+  {
+    "rank": 95,
+    "german": "entwickeln",
+    "english": "to develop",
+    "partOfSpeech": "verb",
+    "difficulty": "B1",
+    "pronunciation": "/ɛntˈvɪkl̩n/",
+    "exampleGerman": "Wir entwickeln eine App.",
+    "exampleEnglish": "We are developing an app.",
+    "memoryTip": "'Ent-wickeln' = un-wrap → unfold/develop.",
+    "tags": [
+      "verb",
+      "work",
+      "abstract"
+    ],
+    "grammarNote": "ich entwickle, du entwickelst.",
+    "usageNote": "Inseparable prefix 'ent-'."
+  },
+  {
+    "rank": 96,
+    "german": "die Erfahrung",
+    "english": "the experience",
+    "partOfSpeech": "noun",
+    "difficulty": "B1",
+    "pronunciation": "/ɛɐ̯ˈfaːʁʊŋ/",
+    "exampleGerman": "Ich habe viel Erfahrung.",
+    "exampleEnglish": "I have a lot of experience.",
+    "memoryTip": "From 'erfahren' = to experience/learn.",
+    "tags": [
+      "noun",
+      "work",
+      "abstract"
+    ],
+    "grammarNote": "Feminine: die Erfahrung; pl. -en."
+  },
+  {
+    "rank": 97,
+    "german": "beschäftigen",
+    "english": "to occupy, to keep busy",
+    "partOfSpeech": "verb",
+    "difficulty": "B2",
+    "pronunciation": "/bəˈʃɛftɪɡn̩/",
+    "exampleGerman": "Ich beschäftige mich mit Kunst.",
+    "exampleEnglish": "I occupy myself with art.",
+    "memoryTip": "Think 'be-shift' — shift your focus onto something.",
+    "tags": [
+      "verb",
+      "abstract"
+    ],
+    "grammarNote": "Often reflexive: 'sich beschäftigen mit'.",
+    "usageNote": "'sich beschäftigen mit' + dative."
+  },
+  {
+    "rank": 98,
+    "german": "der Zusammenhang",
+    "english": "the connection, context",
+    "partOfSpeech": "noun",
+    "difficulty": "B2",
+    "pronunciation": "/tsuˈzamənhaŋ/",
+    "exampleGerman": "Der Zusammenhang ist klar.",
+    "exampleEnglish": "The connection is clear.",
+    "memoryTip": "'Zusammen-hang' = hanging together → connection.",
+    "tags": [
+      "noun",
+      "abstract"
+    ],
+    "grammarNote": "Masculine: der Zusammenhang; pl. -hänge."
+  },
+  {
+    "rank": 99,
+    "german": "die Voraussetzung",
+    "english": "the prerequisite, requirement",
+    "partOfSpeech": "noun",
+    "difficulty": "B2",
+    "pronunciation": "/foˈʁaʊszɛtsʊŋ/",
+    "exampleGerman": "Das ist eine Voraussetzung.",
+    "exampleEnglish": "That is a prerequisite.",
+    "memoryTip": "'Voraus-setzung' = set in advance → prerequisite.",
+    "tags": [
+      "noun",
+      "abstract",
+      "work"
+    ],
+    "grammarNote": "Feminine: die Voraussetzung; pl. -en."
+  },
+  {
+    "rank": 100,
+    "german": "kaufen",
+    "english": "to buy",
+    "partOfSpeech": "verb",
+    "difficulty": "A2",
+    "pronunciation": "/ˈkaʊ̯fən/",
+    "exampleGerman": "Ich kaufe ein neues Buch.",
+    "exampleEnglish": "I am buying a new book.",
+    "memoryTip": "'Kaufen' sounds like 'cow-fen' — you head to the farm to buy a cow.",
+    "grammarNote": "Regular weak verb: kaufte, hat gekauft.",
+    "usageNote": "Very common everyday verb used for all purchases.",
+    "tags": [
+      "verb",
+      "everyday",
+      "shopping"
+    ]
+  },
+  {
+    "rank": 101,
+    "german": "verkaufen",
+    "english": "to sell",
+    "partOfSpeech": "verb",
+    "difficulty": "A2",
+    "pronunciation": "/fɛɐ̯ˈkaʊ̯fən/",
+    "exampleGerman": "Er verkauft sein Auto.",
+    "exampleEnglish": "He is selling his car.",
+    "memoryTip": "'Ver-kaufen' = the reverse of kaufen (buying). Ver- often signals reversal.",
+    "grammarNote": "Regular: verkaufte, hat verkauft.",
+    "tags": [
+      "verb",
+      "shopping",
+      "commerce"
+    ]
+  },
+  {
+    "rank": 102,
+    "german": "öffnen",
+    "english": "to open",
+    "partOfSpeech": "verb",
+    "difficulty": "A2",
+    "pronunciation": "/ˈœfnən/",
+    "exampleGerman": "Bitte öffne die Tür.",
+    "exampleEnglish": "Please open the door.",
+    "memoryTip": "'Öffnen' — the umlaut ö opens up like a mouth.",
+    "grammarNote": "Regular: öffnete, hat geöffnet.",
+    "tags": [
+      "verb",
+      "everyday",
+      "action"
+    ]
+  },
+  {
+    "rank": 103,
+    "german": "schließen",
+    "english": "to close / to shut",
+    "partOfSpeech": "verb",
+    "difficulty": "A2",
+    "pronunciation": "/ˈʃliːsən/",
+    "exampleGerman": "Er schließt das Fenster.",
+    "exampleEnglish": "He closes the window.",
+    "memoryTip": "'Schließen' — imagine sliding a sleek lock shut.",
+    "grammarNote": "Strong verb: schloss, hat geschlossen.",
+    "tags": [
+      "verb",
+      "everyday",
+      "action"
+    ]
+  },
+  {
+    "rank": 104,
+    "german": "fragen",
+    "english": "to ask",
+    "partOfSpeech": "verb",
+    "difficulty": "A2",
+    "pronunciation": "/ˈfʁaːɡən/",
+    "exampleGerman": "Darf ich Sie etwas fragen?",
+    "exampleEnglish": "May I ask you something?",
+    "memoryTip": "'Fragen' — think 'framing a question'.",
+    "grammarNote": "Regular: fragte, hat gefragt.",
+    "tags": [
+      "verb",
+      "communication",
+      "essential"
+    ]
+  },
+  {
+    "rank": 105,
+    "german": "antworten",
+    "english": "to answer / to reply",
+    "partOfSpeech": "verb",
+    "difficulty": "A2",
+    "pronunciation": "/ˈantvɔʁtən/",
+    "exampleGerman": "Bitte antworten Sie auf meine E-Mail.",
+    "exampleEnglish": "Please reply to my email.",
+    "memoryTip": "'Antworten' contains 'Antwort' (answer) — the verb just adds -en.",
+    "grammarNote": "Regular: antwortete, hat geantwortet. Takes dative: jemandem antworten.",
+    "tags": [
+      "verb",
+      "communication"
+    ]
+  },
+  {
+    "rank": 106,
+    "german": "helfen",
+    "english": "to help",
+    "partOfSpeech": "verb",
+    "difficulty": "A2",
+    "pronunciation": "/ˈhɛlfən/",
+    "exampleGerman": "Kannst du mir helfen?",
+    "exampleEnglish": "Can you help me?",
+    "memoryTip": "'Helfen' sounds like 'helpful' — connect them!",
+    "grammarNote": "Strong verb: half, hat geholfen. Takes dative: jemandem helfen.",
+    "tags": [
+      "verb",
+      "everyday",
+      "essential"
+    ]
+  },
+  {
+    "rank": 107,
+    "german": "bezahlen",
+    "english": "to pay",
+    "partOfSpeech": "verb",
+    "difficulty": "A2",
+    "pronunciation": "/bəˈt͡saːlən/",
+    "exampleGerman": "Ich möchte bitte bezahlen.",
+    "exampleEnglish": "I would like to pay, please.",
+    "memoryTip": "'Bezahlen' — 'zahlen' means to count/pay; 'be-' makes it more specific.",
+    "grammarNote": "Regular: bezahlte, hat bezahlt.",
+    "tags": [
+      "verb",
+      "shopping",
+      "money"
+    ]
+  },
+  {
+    "rank": 108,
+    "german": "reisen",
+    "english": "to travel",
+    "partOfSpeech": "verb",
+    "difficulty": "A2",
+    "pronunciation": "/ˈʁaɪ̯zən/",
+    "exampleGerman": "Wir reisen gerne nach Italien.",
+    "exampleEnglish": "We like to travel to Italy.",
+    "memoryTip": "'Reisen' — think of 'rising' up to travel somewhere.",
+    "grammarNote": "Regular: reiste, ist gereist. Uses sein as auxiliary.",
+    "tags": [
+      "verb",
+      "travel"
+    ]
+  },
+  {
+    "rank": 109,
+    "german": "bleiben",
+    "english": "to stay / to remain",
+    "partOfSpeech": "verb",
+    "difficulty": "A2",
+    "pronunciation": "/ˈblaɪ̯bən/",
+    "exampleGerman": "Kannst du noch bleiben?",
+    "exampleEnglish": "Can you stay a bit longer?",
+    "memoryTip": "'Bleiben' — 'blaib-en', like a label that sticks around.",
+    "grammarNote": "Strong verb: blieb, ist geblieben. Uses sein as auxiliary.",
+    "tags": [
+      "verb",
+      "movement",
+      "essential"
+    ]
+  },
+  {
+    "rank": 110,
+    "german": "beginnen",
+    "english": "to begin / to start",
+    "partOfSpeech": "verb",
+    "difficulty": "A2",
+    "pronunciation": "/bəˈɡɪnən/",
+    "exampleGerman": "Der Film beginnt um acht Uhr.",
+    "exampleEnglish": "The film starts at eight o'clock.",
+    "memoryTip": "'Beginnen' closely resembles 'begin'.",
+    "grammarNote": "Strong verb: begann, hat begonnen. Synonym: anfangen (separable).",
+    "tags": [
+      "verb",
+      "everyday",
+      "action"
+    ]
+  },
+  {
+    "rank": 111,
+    "german": "vergessen",
+    "english": "to forget",
+    "partOfSpeech": "verb",
+    "difficulty": "A2",
+    "pronunciation": "/fɛɐ̯ˈɡɛsən/",
+    "exampleGerman": "Ich habe meinen Schlüssel vergessen.",
+    "exampleEnglish": "I forgot my key.",
+    "memoryTip": "'Vergessen' — 'ver-' often signals going wrong; you've let it slip away.",
+    "grammarNote": "Strong verb: vergaß, hat vergessen.",
+    "tags": [
+      "verb",
+      "mental",
+      "everyday"
+    ]
+  },
+  {
+    "rank": 112,
+    "german": "erinnern",
+    "english": "to remember / to remind",
+    "partOfSpeech": "verb",
+    "difficulty": "A2",
+    "pronunciation": "/ɛɐ̯ˈʔɪnɐn/",
+    "exampleGerman": "Ich erinnere mich an unseren Urlaub.",
+    "exampleEnglish": "I remember our holiday.",
+    "memoryTip": "'Erinnern' — reach *in* to your memory (er-inner-n).",
+    "grammarNote": "Reflexive: sich erinnern an + accusative. Regular: erinnerte, hat erinnert.",
+    "tags": [
+      "verb",
+      "mental",
+      "reflexive"
+    ]
+  },
+  {
+    "rank": 113,
+    "german": "zeigen",
+    "english": "to show / to point",
+    "partOfSpeech": "verb",
+    "difficulty": "A2",
+    "pronunciation": "/ˈt͡saɪ̯ɡən/",
+    "exampleGerman": "Kannst du mir den Weg zeigen?",
+    "exampleEnglish": "Can you show me the way?",
+    "memoryTip": "'Zeigen' — a sign (Zeichen) points the way.",
+    "grammarNote": "Regular: zeigte, hat gezeigt.",
+    "tags": [
+      "verb",
+      "communication",
+      "direction"
+    ]
+  },
+  {
+    "rank": 114,
+    "german": "schreiben",
+    "english": "to write",
+    "partOfSpeech": "verb",
+    "difficulty": "A2",
+    "pronunciation": "/ˈʃʁaɪ̯bən/",
+    "exampleGerman": "Ich schreibe einen Brief.",
+    "exampleEnglish": "I am writing a letter.",
+    "memoryTip": "'Schreiben' — like a scribe writing.",
+    "grammarNote": "Strong verb: schrieb, hat geschrieben.",
+    "tags": [
+      "verb",
+      "communication",
+      "essential"
+    ]
+  },
+  {
+    "rank": 115,
+    "german": "das Wetter",
+    "english": "the weather",
+    "partOfSpeech": "noun",
+    "difficulty": "A2",
+    "pronunciation": "/ˈvɛtɐ/",
+    "exampleGerman": "Das Wetter ist heute schön.",
+    "exampleEnglish": "The weather is nice today.",
+    "memoryTip": "'Wetter' sounds like 'wetter' — rainy weather makes things wetter!",
+    "grammarNote": "Neuter noun, no plural. Article: das.",
+    "tags": [
+      "noun",
+      "nature",
+      "everyday"
+    ]
+  },
+  {
+    "rank": 116,
+    "german": "die Familie",
+    "english": "the family",
+    "partOfSpeech": "noun",
+    "difficulty": "A2",
+    "pronunciation": "/faˈmiːli̯ə/",
+    "exampleGerman": "Meine Familie wohnt in München.",
+    "exampleEnglish": "My family lives in Munich.",
+    "memoryTip": "'Familie' is almost identical to the English 'family'.",
+    "grammarNote": "Feminine noun. Plural: Familien. Article: die.",
+    "tags": [
+      "noun",
+      "people",
+      "essential"
+    ]
+  },
+  {
+    "rank": 117,
+    "german": "das Problem",
+    "english": "the problem",
+    "partOfSpeech": "noun",
+    "difficulty": "A2",
+    "pronunciation": "/pʁoˈbleːm/",
+    "exampleGerman": "Wir haben ein kleines Problem.",
+    "exampleEnglish": "We have a small problem.",
+    "memoryTip": "Identical to English 'problem'.",
+    "grammarNote": "Neuter noun. Plural: Probleme. Article: das.",
+    "tags": [
+      "noun",
+      "everyday",
+      "essential"
+    ]
+  },
+  {
+    "rank": 118,
+    "german": "der Bahnhof",
+    "english": "the train station",
+    "partOfSpeech": "noun",
+    "difficulty": "A2",
+    "pronunciation": "/ˈbaːnhoːf/",
+    "exampleGerman": "Der Bahnhof ist fünf Minuten entfernt.",
+    "exampleEnglish": "The train station is five minutes away.",
+    "memoryTip": "'Bahn' = rail, 'Hof' = yard. A yard for railways.",
+    "grammarNote": "Masculine noun. Plural: Bahnhöfe. Article: der.",
+    "tags": [
+      "noun",
+      "transport",
+      "travel"
+    ]
+  },
+  {
+    "rank": 119,
+    "german": "das Flugzeug",
+    "english": "the aeroplane",
+    "partOfSpeech": "noun",
+    "difficulty": "A2",
+    "pronunciation": "/ˈfluːkt͡sɔʏ̯k/",
+    "exampleGerman": "Das Flugzeug landet in einer Stunde.",
+    "exampleEnglish": "The plane lands in one hour.",
+    "memoryTip": "'Flug' (flight) + 'Zeug' (thing) = a flying thing.",
+    "grammarNote": "Neuter noun. Plural: Flugzeuge. Article: das.",
+    "tags": [
+      "noun",
+      "transport",
+      "travel"
+    ]
+  },
+  {
+    "rank": 120,
+    "german": "die Straße",
+    "english": "the street / the road",
+    "partOfSpeech": "noun",
+    "difficulty": "A2",
+    "pronunciation": "/ˈʃtʁaːsə/",
+    "exampleGerman": "Die Straße ist sehr breit.",
+    "exampleEnglish": "The street is very wide.",
+    "memoryTip": "'Straße' — think of a 'straight' road ahead.",
+    "grammarNote": "Feminine noun. Plural: Straßen. Article: die.",
+    "tags": [
+      "noun",
+      "places",
+      "transport"
+    ]
+  },
+  {
+    "rank": 121,
+    "german": "das Zimmer",
+    "english": "the room",
+    "partOfSpeech": "noun",
+    "difficulty": "A2",
+    "pronunciation": "/ˈt͡sɪmɐ/",
+    "exampleGerman": "Mein Zimmer ist groß und hell.",
+    "exampleEnglish": "My room is large and bright.",
+    "memoryTip": "'Zimmer' — rooms were once timber-framed.",
+    "grammarNote": "Neuter noun. Plural: Zimmer (unchanged). Article: das.",
+    "tags": [
+      "noun",
+      "home",
+      "everyday"
+    ]
+  },
+  {
+    "rank": 122,
+    "german": "das Buch",
+    "english": "the book",
+    "partOfSpeech": "noun",
+    "difficulty": "A2",
+    "pronunciation": "/buːx/",
+    "exampleGerman": "Ich lese ein interessantes Buch.",
+    "exampleEnglish": "I am reading an interesting book.",
+    "memoryTip": "'Buch' is related to 'beech' — ancient writing was carved on beech bark.",
+    "grammarNote": "Neuter noun. Plural: Bücher. Article: das.",
+    "tags": [
+      "noun",
+      "everyday",
+      "culture"
+    ]
+  },
+  {
+    "rank": 123,
+    "german": "die Küche",
+    "english": "the kitchen",
+    "partOfSpeech": "noun",
+    "difficulty": "A2",
+    "pronunciation": "/ˈkʏçə/",
+    "exampleGerman": "Die Küche riecht wunderbar.",
+    "exampleEnglish": "The kitchen smells wonderful.",
+    "memoryTip": "'Küche' — like 'cook-a', the place where cooking happens.",
+    "grammarNote": "Feminine noun. Plural: Küchen. Article: die.",
+    "tags": [
+      "noun",
+      "home",
+      "food"
+    ]
+  },
+  {
+    "rank": 124,
+    "german": "die Zeitung",
+    "english": "the newspaper",
+    "partOfSpeech": "noun",
+    "difficulty": "A2",
+    "pronunciation": "/ˈt͡saɪ̯tʊŋ/",
+    "exampleGerman": "Er liest jeden Morgen die Zeitung.",
+    "exampleEnglish": "He reads the newspaper every morning.",
+    "memoryTip": "'Zeit' = time; a newspaper records the times.",
+    "grammarNote": "Feminine noun. Plural: Zeitungen. Article: die.",
+    "tags": [
+      "noun",
+      "media",
+      "culture"
+    ]
+  },
+  {
+    "rank": 125,
+    "german": "billig",
+    "english": "cheap / inexpensive",
+    "partOfSpeech": "adjective",
+    "difficulty": "A2",
+    "pronunciation": "/ˈbɪlɪç/",
+    "exampleGerman": "Das Hotel ist billig aber sauber.",
+    "exampleEnglish": "The hotel is cheap but clean.",
+    "memoryTip": "'Billig' — a bill you're happy to pay (a small one).",
+    "tags": [
+      "adjective",
+      "shopping",
+      "money"
+    ]
+  },
+  {
+    "rank": 126,
+    "german": "teuer",
+    "english": "expensive",
+    "partOfSpeech": "adjective",
+    "difficulty": "A2",
+    "pronunciation": "/ˈtɔʏ̯ɐ/",
+    "exampleGerman": "Das Restaurant ist sehr teuer.",
+    "exampleEnglish": "The restaurant is very expensive.",
+    "memoryTip": "'Teuer' — think 'tower price', sky-high costs.",
+    "tags": [
+      "adjective",
+      "shopping",
+      "money"
+    ]
+  },
+  {
+    "rank": 127,
+    "german": "leicht",
+    "english": "easy / light (weight)",
+    "partOfSpeech": "adjective",
+    "difficulty": "A2",
+    "pronunciation": "/laɪ̯çt/",
+    "exampleGerman": "Die Aufgabe ist leicht.",
+    "exampleEnglish": "The task is easy.",
+    "memoryTip": "'Leicht' mirrors 'light' in English — both mean easy and not heavy.",
+    "usageNote": "Can mean physically light or easy depending on context.",
+    "tags": [
+      "adjective",
+      "essential"
+    ]
+  },
+  {
+    "rank": 128,
+    "german": "schwer",
+    "english": "heavy / difficult",
+    "partOfSpeech": "adjective",
+    "difficulty": "A2",
+    "pronunciation": "/ʃveːɐ̯/",
+    "exampleGerman": "Diese Prüfung ist sehr schwer.",
+    "exampleEnglish": "This exam is very difficult.",
+    "memoryTip": "'Schwer' — imagine a heavy, severe burden.",
+    "usageNote": "Like leicht, means both physically heavy and mentally difficult.",
+    "tags": [
+      "adjective",
+      "essential"
+    ]
+  },
+  {
+    "rank": 129,
+    "german": "früh",
+    "english": "early",
+    "partOfSpeech": "adjective",
+    "difficulty": "A2",
+    "pronunciation": "/fʁyː/",
+    "exampleGerman": "Ich stehe früh auf.",
+    "exampleEnglish": "I get up early.",
+    "memoryTip": "'Früh' — sounds like brewing early morning coffee.",
+    "tags": [
+      "adjective",
+      "time",
+      "everyday"
+    ]
+  },
+  {
+    "rank": 130,
+    "german": "spät",
+    "english": "late",
+    "partOfSpeech": "adjective",
+    "difficulty": "A2",
+    "pronunciation": "/ʃpɛːt/",
+    "exampleGerman": "Es ist schon sehr spät.",
+    "exampleEnglish": "It is already very late.",
+    "memoryTip": "'Spät' — sounds like 'spate', a late rush of events.",
+    "tags": [
+      "adjective",
+      "time",
+      "everyday"
+    ]
+  },
+  {
+    "rank": 131,
+    "german": "verstehen",
+    "english": "to understand",
+    "partOfSpeech": "verb",
+    "difficulty": "B1",
+    "pronunciation": "/fɛɐ̯ˈʃteːən/",
+    "exampleGerman": "Ich verstehe die Frage nicht.",
+    "exampleEnglish": "I don't understand the question.",
+    "memoryTip": "'Ver-stehen' — 'stehen' = to stand; understanding is standing firm on an idea.",
+    "grammarNote": "Strong verb: verstand, hat verstanden.",
+    "tags": [
+      "verb",
+      "mental",
+      "essential"
+    ]
+  },
+  {
+    "rank": 132,
+    "german": "versuchen",
+    "english": "to try / to attempt",
+    "partOfSpeech": "verb",
+    "difficulty": "B1",
+    "pronunciation": "/fɛɐ̯ˈzuːxən/",
+    "exampleGerman": "Ich versuche, pünktlich zu sein.",
+    "exampleEnglish": "I try to be on time.",
+    "memoryTip": "'Ver-suchen' — suchen means to seek; you're seeking to achieve something.",
+    "grammarNote": "Regular: versuchte, hat versucht. Often followed by zu + infinitive.",
+    "tags": [
+      "verb",
+      "everyday",
+      "action"
+    ]
+  },
+  {
+    "rank": 133,
+    "german": "entdecken",
+    "english": "to discover",
+    "partOfSpeech": "verb",
+    "difficulty": "B1",
+    "pronunciation": "/ɛntˈdɛkən/",
+    "exampleGerman": "Wir haben ein tolles Restaurant entdeckt.",
+    "exampleEnglish": "We discovered a great restaurant.",
+    "memoryTip": "'Ent-decken' — 'decken' = to cover; ent- removes the cover = discover.",
+    "grammarNote": "Regular: entdeckte, hat entdeckt.",
+    "tags": [
+      "verb",
+      "exploration",
+      "travel"
+    ]
+  },
+  {
+    "rank": 134,
+    "german": "erleben",
+    "english": "to experience / to live through",
+    "partOfSpeech": "verb",
+    "difficulty": "B1",
+    "pronunciation": "/ɛɐ̯ˈleːbən/",
+    "exampleGerman": "Ich habe viel in meinem Leben erlebt.",
+    "exampleEnglish": "I have experienced a lot in my life.",
+    "memoryTip": "'Er-leben' — 'leben' = to live; erleben is to actively live something.",
+    "grammarNote": "Regular: erlebte, hat erlebt.",
+    "tags": [
+      "verb",
+      "life",
+      "experience"
+    ]
+  },
+  {
+    "rank": 135,
+    "german": "gehören",
+    "english": "to belong to",
+    "partOfSpeech": "verb",
+    "difficulty": "B1",
+    "pronunciation": "/ɡəˈhøːʁən/",
+    "exampleGerman": "Dieses Buch gehört mir.",
+    "exampleEnglish": "This book belongs to me.",
+    "memoryTip": "'Gehören' — from 'hören' (to hear); something belongs to whoever heeds it.",
+    "grammarNote": "Regular: gehörte, hat gehört. Takes dative: Das gehört mir.",
+    "tags": [
+      "verb",
+      "possession",
+      "everyday"
+    ]
+  },
+  {
+    "rank": 136,
+    "german": "vergleichen",
+    "english": "to compare",
+    "partOfSpeech": "verb",
+    "difficulty": "B1",
+    "pronunciation": "/fɛɐ̯ˈɡlaɪ̯çən/",
+    "exampleGerman": "Man sollte Äpfel nicht mit Birnen vergleichen.",
+    "exampleEnglish": "One shouldn't compare apples with pears.",
+    "memoryTip": "'Ver-gleichen' — 'gleich' = equal; to compare is to check for equality.",
+    "grammarNote": "Strong verb: verglich, hat verglichen.",
+    "tags": [
+      "verb",
+      "mental",
+      "analysis"
+    ]
+  },
+  {
+    "rank": 137,
+    "german": "entwickeln",
+    "english": "to develop / to evolve",
+    "partOfSpeech": "verb",
+    "difficulty": "B1",
+    "pronunciation": "/ɛntˈvɪkəln/",
+    "exampleGerman": "Das Unternehmen entwickelt neue Produkte.",
+    "exampleEnglish": "The company is developing new products.",
+    "memoryTip": "'Entwickeln' — 'wickeln' = to wrap; develop is to unwrap potential.",
+    "grammarNote": "Regular: entwickelte, hat entwickelt. Also reflexive: sich entwickeln.",
+    "tags": [
+      "verb",
+      "progress",
+      "business"
+    ]
+  },
+  {
+    "rank": 138,
+    "german": "erklären",
+    "english": "to explain",
+    "partOfSpeech": "verb",
+    "difficulty": "B1",
+    "pronunciation": "/ɛɐ̯ˈklɛːʁən/",
+    "exampleGerman": "Kannst du mir das erklären?",
+    "exampleEnglish": "Can you explain that to me?",
+    "memoryTip": "'Er-klären' — 'klar' = clear; to explain is to make things clear.",
+    "grammarNote": "Regular: erklärte, hat erklärt.",
+    "tags": [
+      "verb",
+      "communication",
+      "teaching"
+    ]
+  },
+  {
+    "rank": 139,
+    "german": "vorstellen",
+    "english": "to introduce / to imagine",
+    "partOfSpeech": "verb",
+    "difficulty": "B1",
+    "pronunciation": "/ˈfoːɐ̯ʃtɛlən/",
+    "exampleGerman": "Darf ich mich vorstellen?",
+    "exampleEnglish": "May I introduce myself?",
+    "memoryTip": "'Vor-stellen' — to place (stellen) something in front (vor) of someone.",
+    "grammarNote": "Separable: stellt vor, vorgestellt. Reflexive: sich vorstellen.",
+    "usageNote": "'Sich vorstellen' = to introduce oneself OR to imagine something.",
+    "tags": [
+      "verb",
+      "social",
+      "communication"
+    ]
+  },
+  {
+    "rank": 140,
+    "german": "erwarten",
+    "english": "to expect / to await",
+    "partOfSpeech": "verb",
+    "difficulty": "B1",
+    "pronunciation": "/ɛɐ̯ˈvaʁtən/",
+    "exampleGerman": "Ich erwarte eine Antwort bis morgen.",
+    "exampleEnglish": "I expect an answer by tomorrow.",
+    "memoryTip": "'Er-warten' — 'warten' = to wait; to expect is to wait for the anticipated.",
+    "grammarNote": "Regular: erwartete, hat erwartet.",
+    "tags": [
+      "verb",
+      "mental",
+      "planning"
+    ]
+  },
+  {
+    "rank": 141,
+    "german": "die Erfahrung",
+    "english": "the experience",
+    "partOfSpeech": "noun",
+    "difficulty": "B1",
+    "pronunciation": "/ɛɐ̯ˈfaːʁʊŋ/",
+    "exampleGerman": "Sie hat viel Berufserfahrung.",
+    "exampleEnglish": "She has a lot of professional experience.",
+    "memoryTip": "'Er-fahrung' — 'fahren' = to travel; experience is the journey you've driven.",
+    "grammarNote": "Feminine noun. Plural: Erfahrungen. Article: die.",
+    "tags": [
+      "noun",
+      "life",
+      "professional"
+    ]
+  },
+  {
+    "rank": 142,
+    "german": "die Möglichkeit",
+    "english": "the possibility / the opportunity",
+    "partOfSpeech": "noun",
+    "difficulty": "B1",
+    "pronunciation": "/ˈmøːklɪçkaɪ̯t/",
+    "exampleGerman": "Es gibt viele Möglichkeiten.",
+    "exampleEnglish": "There are many possibilities.",
+    "memoryTip": "'Möglich' = possible; -keit turns adjectives into nouns (like -ness in English).",
+    "grammarNote": "Feminine noun. Plural: Möglichkeiten. Article: die.",
+    "tags": [
+      "noun",
+      "abstract",
+      "planning"
+    ]
+  },
+  {
+    "rank": 143,
+    "german": "die Entscheidung",
+    "english": "the decision",
+    "partOfSpeech": "noun",
+    "difficulty": "B1",
+    "pronunciation": "/ɛntˈʃaɪ̯dʊŋ/",
+    "exampleGerman": "Es war eine schwierige Entscheidung.",
+    "exampleEnglish": "It was a difficult decision.",
+    "memoryTip": "From 'entscheiden' (to decide). The -ung suffix nominalises the action.",
+    "grammarNote": "Feminine noun. Plural: Entscheidungen. Article: die.",
+    "tags": [
+      "noun",
+      "abstract",
+      "decision"
+    ]
+  },
+  {
+    "rank": 144,
+    "german": "das Ergebnis",
+    "english": "the result / the outcome",
+    "partOfSpeech": "noun",
+    "difficulty": "B1",
+    "pronunciation": "/ɛɐ̯ˈɡeːpnɪs/",
+    "exampleGerman": "Das Ergebnis der Prüfung war gut.",
+    "exampleEnglish": "The result of the exam was good.",
+    "memoryTip": "'Er-geb-nis' — from 'geben' (to give); a result is what the effort gives you.",
+    "grammarNote": "Neuter noun. Plural: Ergebnisse. Article: das.",
+    "tags": [
+      "noun",
+      "abstract",
+      "academic"
+    ]
+  },
+  {
+    "rank": 145,
+    "german": "die Gesellschaft",
+    "english": "the society / the company (group)",
+    "partOfSpeech": "noun",
+    "difficulty": "B1",
+    "pronunciation": "/ɡəˈzɛlʃaft/",
+    "exampleGerman": "In unserer Gesellschaft ist das normal.",
+    "exampleEnglish": "In our society that is normal.",
+    "memoryTip": "'Geselle' was a journeyman craftsman; a society is a group of companions.",
+    "grammarNote": "Feminine noun. Plural: Gesellschaften. Article: die.",
+    "tags": [
+      "noun",
+      "society",
+      "abstract"
+    ]
+  },
+  {
+    "rank": 146,
+    "german": "die Entwicklung",
+    "english": "the development",
+    "partOfSpeech": "noun",
+    "difficulty": "B1",
+    "pronunciation": "/ɛntˈvɪklʊŋ/",
+    "exampleGerman": "Die technische Entwicklung geht schnell voran.",
+    "exampleEnglish": "Technological development is advancing rapidly.",
+    "memoryTip": "From 'entwickeln' (to develop). -ung makes it a noun.",
+    "grammarNote": "Feminine noun. Plural: Entwicklungen. Article: die.",
+    "tags": [
+      "noun",
+      "abstract",
+      "progress"
+    ]
+  },
+  {
+    "rank": 147,
+    "german": "die Bedeutung",
+    "english": "the meaning / the significance",
+    "partOfSpeech": "noun",
+    "difficulty": "B1",
+    "pronunciation": "/bəˈdɔʏ̯tʊŋ/",
+    "exampleGerman": "Was ist die Bedeutung dieses Wortes?",
+    "exampleEnglish": "What is the meaning of this word?",
+    "memoryTip": "'Be-deut-ung' — from 'deuten' (to interpret). Meaning is what a word points to.",
+    "grammarNote": "Feminine noun. Plural: Bedeutungen. Article: die.",
+    "tags": [
+      "noun",
+      "language",
+      "abstract"
+    ]
+  },
+  {
+    "rank": 148,
+    "german": "die Beziehung",
+    "english": "the relationship",
+    "partOfSpeech": "noun",
+    "difficulty": "B1",
+    "pronunciation": "/bəˈt͡siːʊŋ/",
+    "exampleGerman": "Sie haben eine gute Beziehung.",
+    "exampleEnglish": "They have a good relationship.",
+    "memoryTip": "'Be-zieh-ung' — from 'ziehen' (to pull); a relationship pulls people together.",
+    "grammarNote": "Feminine noun. Plural: Beziehungen. Article: die.",
+    "tags": [
+      "noun",
+      "social",
+      "relationships"
+    ]
+  },
+  {
+    "rank": 149,
+    "german": "der Unterschied",
+    "english": "the difference",
+    "partOfSpeech": "noun",
+    "difficulty": "B1",
+    "pronunciation": "/ˈʊntɐʃiːt/",
+    "exampleGerman": "Was ist der Unterschied zwischen A und B?",
+    "exampleEnglish": "What is the difference between A and B?",
+    "memoryTip": "'Unter-schied' — from 'scheiden' (to separate). The difference cuts below.",
+    "grammarNote": "Masculine noun. Plural: Unterschiede. Article: der.",
+    "tags": [
+      "noun",
+      "abstract",
+      "comparison"
+    ]
+  },
+  {
+    "rank": 150,
+    "german": "die Verantwortung",
+    "english": "the responsibility",
+    "partOfSpeech": "noun",
+    "difficulty": "B1",
+    "pronunciation": "/fɛɐ̯ˈʔantvɔʁtʊŋ/",
+    "exampleGerman": "Er trägt die Verantwortung für das Projekt.",
+    "exampleEnglish": "He bears responsibility for the project.",
+    "memoryTip": "'Ver-antwortung' — from 'Antwort' (answer); you must answer for your actions.",
+    "grammarNote": "Feminine noun. No plural in common use. Article: die.",
+    "tags": [
+      "noun",
+      "abstract",
+      "professional",
+      "ethics"
+    ]
+  },
+  {
+    "rank": 151,
+    "german": "wichtig",
+    "english": "important",
+    "partOfSpeech": "adjective",
+    "difficulty": "B1",
+    "pronunciation": "/ˈvɪçtɪç/",
+    "exampleGerman": "Das ist eine wichtige Entscheidung.",
+    "exampleEnglish": "That is an important decision.",
+    "memoryTip": "'Wichtig' — think 'weighty'; important things carry weight.",
+    "tags": [
+      "adjective",
+      "essential",
+      "abstract"
+    ]
+  },
+  {
+    "rank": 152,
+    "german": "notwendig",
+    "english": "necessary / essential",
+    "partOfSpeech": "adjective",
+    "difficulty": "B1",
+    "pronunciation": "/ˈnoːtvɛndɪç/",
+    "exampleGerman": "Es ist notwendig, früh aufzustehen.",
+    "exampleEnglish": "It is necessary to get up early.",
+    "memoryTip": "'Not-wendig' — 'Not' means need/necessity; literally 'need-turning'.",
+    "tags": [
+      "adjective",
+      "abstract",
+      "formal"
+    ]
+  },
+  {
+    "rank": 153,
+    "german": "möglich",
+    "english": "possible",
+    "partOfSpeech": "adjective",
+    "difficulty": "B1",
+    "pronunciation": "/ˈmøːklɪç/",
+    "exampleGerman": "Ist das möglich?",
+    "exampleEnglish": "Is that possible?",
+    "memoryTip": "'Möglich' — close to the word for possibility (Möglichkeit).",
+    "tags": [
+      "adjective",
+      "abstract",
+      "essential"
+    ]
+  },
+  {
+    "rank": 154,
+    "german": "ähnlich",
+    "english": "similar",
+    "partOfSpeech": "adjective",
+    "difficulty": "B1",
+    "pronunciation": "/ˈɛːnlɪç/",
+    "exampleGerman": "Diese zwei Wörter sind ähnlich.",
+    "exampleEnglish": "These two words are similar.",
+    "memoryTip": "'Ähnlich' — think 'analogous'; close in meaning.",
+    "tags": [
+      "adjective",
+      "comparison",
+      "abstract"
+    ]
+  },
+  {
+    "rank": 155,
+    "german": "verschieden",
+    "english": "different / various",
+    "partOfSpeech": "adjective",
+    "difficulty": "B1",
+    "pronunciation": "/fɛɐ̯ˈʃiːdən/",
+    "exampleGerman": "Wir haben verschiedene Meinungen.",
+    "exampleEnglish": "We have different opinions.",
+    "memoryTip": "'Ver-schieden' — from 'scheiden' (to separate); what's separated becomes different.",
+    "tags": [
+      "adjective",
+      "comparison",
+      "abstract"
+    ]
+  },
+  {
+    "rank": 156,
+    "german": "erfolgreich",
+    "english": "successful",
+    "partOfSpeech": "adjective",
+    "difficulty": "B1",
+    "pronunciation": "/ɛɐ̯ˈfɔlkʁaɪ̯ç/",
+    "exampleGerman": "Sie ist eine erfolgreiche Unternehmerin.",
+    "exampleEnglish": "She is a successful entrepreneur.",
+    "memoryTip": "'Erfolg' = success; '-reich' = rich in. Rich in success = successful.",
+    "tags": [
+      "adjective",
+      "professional",
+      "positive"
+    ]
+  },
+  {
+    "rank": 157,
+    "german": "zufrieden",
+    "english": "satisfied / content",
+    "partOfSpeech": "adjective",
+    "difficulty": "B1",
+    "pronunciation": "/t͡suːˈfʁiːdən/",
+    "exampleGerman": "Ich bin sehr zufrieden mit meiner Arbeit.",
+    "exampleEnglish": "I am very satisfied with my work.",
+    "memoryTip": "'Zu-frieden' — 'Frieden' = peace; being content is being at peace.",
+    "tags": [
+      "adjective",
+      "emotions",
+      "wellbeing"
+    ]
+  },
+  {
+    "rank": 158,
+    "german": "berücksichtigen",
+    "english": "to consider / to take into account",
+    "partOfSpeech": "verb",
+    "difficulty": "B2",
+    "pronunciation": "/bəˈʁʏksɪçtɪɡən/",
+    "exampleGerman": "Bitte berücksichtigen Sie alle Faktoren.",
+    "exampleEnglish": "Please take all factors into account.",
+    "memoryTip": "'Rücksicht' = consideration (lit. looking back). To look back at all angles.",
+    "grammarNote": "Regular: berücksichtigte, hat berücksichtigt. Formal register.",
+    "tags": [
+      "verb",
+      "formal",
+      "analysis"
+    ]
+  },
+  {
+    "rank": 159,
+    "german": "beeinflussen",
+    "english": "to influence",
+    "partOfSpeech": "verb",
+    "difficulty": "B2",
+    "pronunciation": "/bəˈʔaɪ̯nflʊsən/",
+    "exampleGerman": "Die Medien beeinflussen die öffentliche Meinung.",
+    "exampleEnglish": "The media influence public opinion.",
+    "memoryTip": "'Be-einflussen' — 'Einfluss' = influence; to channel a flow into something.",
+    "grammarNote": "Regular: beeinflusste, hat beeinflusst.",
+    "tags": [
+      "verb",
+      "abstract",
+      "formal",
+      "society"
+    ]
+  },
+  {
+    "rank": 160,
+    "german": "darstellen",
+    "english": "to represent / to depict / to portray",
+    "partOfSpeech": "verb",
+    "difficulty": "B2",
+    "pronunciation": "/ˈdaːɐ̯ʃtɛlən/",
+    "exampleGerman": "Das Diagramm stellt die Daten dar.",
+    "exampleEnglish": "The diagram represents the data.",
+    "memoryTip": "'Dar-stellen' — 'dar' is an old word for 'there'; to place something there for all to see.",
+    "grammarNote": "Separable: stellt dar, dargestellt.",
+    "tags": [
+      "verb",
+      "formal",
+      "academic",
+      "presentation"
+    ]
+  },
+  {
+    "rank": 161,
+    "german": "erfordern",
+    "english": "to require / to demand",
+    "partOfSpeech": "verb",
+    "difficulty": "B2",
+    "pronunciation": "/ɛɐ̯ˈfɔʁdɐn/",
+    "exampleGerman": "Die Aufgabe erfordert viel Geduld.",
+    "exampleEnglish": "The task requires a lot of patience.",
+    "memoryTip": "'Er-fordern' — 'fordern' = to demand; 'er-' intensifies it.",
+    "grammarNote": "Regular: erforderte, hat erfordert.",
+    "tags": [
+      "verb",
+      "formal",
+      "academic"
+    ]
+  },
+  {
+    "rank": 162,
+    "german": "gewährleisten",
+    "english": "to ensure / to guarantee",
+    "partOfSpeech": "verb",
+    "difficulty": "B2",
+    "pronunciation": "/ɡəˈvɛːɐ̯laɪ̯stən/",
+    "exampleGerman": "Wir gewährleisten die Qualität unserer Produkte.",
+    "exampleEnglish": "We guarantee the quality of our products.",
+    "memoryTip": "'Gewähr-leisten' — 'Gewähr' = guarantee; to deliver a guarantee.",
+    "grammarNote": "Regular: gewährleistete, hat gewährleistet. Formal register.",
+    "tags": [
+      "verb",
+      "formal",
+      "business"
+    ]
+  },
+  {
+    "rank": 163,
+    "german": "die Herausforderung",
+    "english": "the challenge",
+    "partOfSpeech": "noun",
+    "difficulty": "B2",
+    "pronunciation": "/hɛˈʁaʊ̯sfɔʁdəʁʊŋ/",
+    "exampleGerman": "Das ist eine große Herausforderung für uns.",
+    "exampleEnglish": "That is a big challenge for us.",
+    "memoryTip": "'Heraus-forderung' — 'heraus' = out, 'fordern' = demand. A challenge calls you out.",
+    "grammarNote": "Feminine noun. Plural: Herausforderungen. Article: die.",
+    "tags": [
+      "noun",
+      "abstract",
+      "professional"
+    ]
+  },
+  {
+    "rank": 164,
+    "german": "die Auswirkung",
+    "english": "the impact / the effect / the consequence",
+    "partOfSpeech": "noun",
+    "difficulty": "B2",
+    "pronunciation": "/ˈaʊ̯svɪʁkʊŋ/",
+    "exampleGerman": "Die Auswirkungen des Klimawandels sind spürbar.",
+    "exampleEnglish": "The effects of climate change are noticeable.",
+    "memoryTip": "'Aus-wirkung' — 'wirken' = to work/act; an effect is what works itself out.",
+    "grammarNote": "Feminine noun. Plural: Auswirkungen. Article: die.",
+    "tags": [
+      "noun",
+      "abstract",
+      "formal"
+    ]
+  },
+  {
+    "rank": 165,
+    "german": "die Voraussetzung",
+    "english": "the prerequisite / the requirement",
+    "partOfSpeech": "noun",
+    "difficulty": "B2",
+    "pronunciation": "/foˈʁaʊ̯sˌzɛt͡sʊŋ/",
+    "exampleGerman": "Gute Deutschkenntnisse sind eine Voraussetzung.",
+    "exampleEnglish": "Good German skills are a prerequisite.",
+    "memoryTip": "'Vor-aus-setzung' — putting something (setzen) out (aus) in front (vor) as a condition.",
+    "grammarNote": "Feminine noun. Plural: Voraussetzungen. Article: die.",
+    "tags": [
+      "noun",
+      "abstract",
+      "formal",
+      "requirements"
+    ]
+  },
+  {
+    "rank": 166,
+    "german": "die Überzeugung",
+    "english": "the conviction / the belief",
+    "partOfSpeech": "noun",
+    "difficulty": "B2",
+    "pronunciation": "/yːbɐˈt͡sɔʏ̯ɡʊŋ/",
+    "exampleGerman": "Es ist meine feste Überzeugung.",
+    "exampleEnglish": "It is my firm conviction.",
+    "memoryTip": "From 'überzeugen' (to convince); a conviction is what has convinced you.",
+    "grammarNote": "Feminine noun. Plural: Überzeugungen. Article: die.",
+    "tags": [
+      "noun",
+      "abstract",
+      "belief",
+      "formal"
+    ]
+  },
+  {
+    "rank": 167,
+    "german": "die Einschränkung",
+    "english": "the restriction / the limitation",
+    "partOfSpeech": "noun",
+    "difficulty": "B2",
+    "pronunciation": "/ˈaɪ̯nʃʁɛŋkʊŋ/",
+    "exampleGerman": "Es gibt keine Einschränkungen.",
+    "exampleEnglish": "There are no restrictions.",
+    "memoryTip": "'Ein-schränk-ung' — 'Schrank' is a cupboard with fixed boundaries.",
+    "grammarNote": "Feminine noun. Plural: Einschränkungen. Article: die.",
+    "tags": [
+      "noun",
+      "abstract",
+      "formal",
+      "rules"
+    ]
+  },
+  {
+    "rank": 168,
+    "german": "die Anerkennung",
+    "english": "the recognition / the acknowledgment",
+    "partOfSpeech": "noun",
+    "difficulty": "B2",
+    "pronunciation": "/ˈanɛɐ̯kɛnʊŋ/",
+    "exampleGerman": "Sie verdient mehr Anerkennung.",
+    "exampleEnglish": "She deserves more recognition.",
+    "memoryTip": "From 'anerkennen' (to recognise); the -ung form captures the act.",
+    "grammarNote": "Feminine noun. No common plural. Article: die.",
+    "tags": [
+      "noun",
+      "abstract",
+      "social",
+      "positive"
+    ]
+  },
+  {
+    "rank": 169,
+    "german": "die Gelegenheit",
+    "english": "the opportunity / the occasion",
+    "partOfSpeech": "noun",
+    "difficulty": "B2",
+    "pronunciation": "/ɡəˈleːɡənhaɪ̯t/",
+    "exampleGerman": "Das ist eine gute Gelegenheit.",
+    "exampleEnglish": "This is a good opportunity.",
+    "memoryTip": "'Ge-legen-heit' — 'gelegen' = conveniently located; an opportunity is conveniently placed for you.",
+    "grammarNote": "Feminine noun. Plural: Gelegenheiten. Article: die.",
+    "tags": [
+      "noun",
+      "abstract",
+      "opportunity"
+    ]
+  },
+  {
+    "rank": 170,
+    "german": "wesentlich",
+    "english": "essential / substantial / considerably",
+    "partOfSpeech": "adjective",
+    "difficulty": "B2",
+    "pronunciation": "/ˈveːzəntlɪç/",
+    "exampleGerman": "Das ist ein wesentlicher Punkt.",
+    "exampleEnglish": "That is an essential point.",
+    "memoryTip": "'Wesen-tlich' — 'Wesen' = essence/being; essential is of the essence.",
+    "usageNote": "Also adverbial: 'wesentlich besser' = considerably better.",
+    "tags": [
+      "adjective",
+      "formal",
+      "abstract"
+    ]
+  },
+  {
+    "rank": 171,
+    "german": "erheblich",
+    "english": "considerable / significant",
+    "partOfSpeech": "adjective",
+    "difficulty": "B2",
+    "pronunciation": "/ɛɐ̯ˈheːplɪç/",
+    "exampleGerman": "Die Kosten sind erheblich gestiegen.",
+    "exampleEnglish": "Costs have increased considerably.",
+    "memoryTip": "'Er-heb-lich' — 'heben' = to lift; erheblich raises the level of something.",
+    "tags": [
+      "adjective",
+      "formal",
+      "degree"
+    ]
+  },
+  {
+    "rank": 172,
+    "german": "vielfältig",
+    "english": "diverse / varied / manifold",
+    "partOfSpeech": "adjective",
+    "difficulty": "B2",
+    "pronunciation": "/ˈfiːlfɛltɪç/",
+    "exampleGerman": "Das Angebot ist vielfältig.",
+    "exampleEnglish": "The range is very diverse.",
+    "memoryTip": "'Viel-fältig' — 'viel' = many, 'fältig' = folded. Many folds = many varieties.",
+    "tags": [
+      "adjective",
+      "abstract",
+      "positive"
+    ]
+  },
+  {
+    "rank": 173,
+    "german": "nachhaltig",
+    "english": "sustainable / lasting",
+    "partOfSpeech": "adjective",
+    "difficulty": "B2",
+    "pronunciation": "/ˈnaːxhaltɪç/",
+    "exampleGerman": "Wir brauchen nachhaltige Lösungen.",
+    "exampleEnglish": "We need sustainable solutions.",
+    "memoryTip": "'Nach-haltig' — 'nachhalten' = to echo; sustainable things keep echoing on.",
+    "tags": [
+      "adjective",
+      "environment",
+      "modern",
+      "formal"
+    ]
+  },
+  {
+    "rank": 174,
+    "german": "zuverlässig",
+    "english": "reliable / dependable",
+    "partOfSpeech": "adjective",
+    "difficulty": "B2",
+    "pronunciation": "/t͡suˈfɛɐ̯lɛsɪç/",
+    "exampleGerman": "Er ist ein zuverlässiger Mitarbeiter.",
+    "exampleEnglish": "He is a reliable colleague.",
+    "memoryTip": "'Zu-verlässig' — from 'verlassen' (to rely on); someone you can leave things to.",
+    "tags": [
+      "adjective",
+      "character",
+      "professional",
+      "positive"
+    ]
+  },
+  {
+    "rank": 175,
+    "german": "gegenseitig",
+    "english": "mutual / reciprocal",
+    "partOfSpeech": "adjective",
+    "difficulty": "B2",
+    "pronunciation": "/ˈɡeːɡənˌzaɪ̯tɪç/",
+    "exampleGerman": "Es beruht auf gegenseitigem Respekt.",
+    "exampleEnglish": "It is based on mutual respect.",
+    "memoryTip": "'Gegen-seitig' — 'gegen' = facing, 'Seite' = side. Facing each other on both sides.",
+    "tags": [
+      "adjective",
+      "abstract",
+      "social",
+      "formal"
+    ]
+  },
+  {
+    "rank": 176,
+    "german": "ungefähr",
+    "english": "approximately / roughly",
+    "partOfSpeech": "adverb",
+    "difficulty": "B2",
+    "pronunciation": "/ˈʊnɡəfɛːɐ̯/",
+    "exampleGerman": "Es dauert ungefähr zwei Stunden.",
+    "exampleEnglish": "It takes approximately two hours.",
+    "memoryTip": "'Un-ge-fähr' — 'Gefahr' = danger; an estimate keeps you out of the danger of being exact.",
+    "tags": [
+      "adverb",
+      "numbers",
+      "everyday",
+      "estimation"
+    ]
+  },
+  {
+    "rank": 177,
+    "german": "die Arbeit",
+    "english": "the work / the job",
+    "partOfSpeech": "noun",
+    "difficulty": "A2",
+    "pronunciation": "/ˈaʁbaɪ̯t/",
+    "exampleGerman": "Ich gehe jeden Tag zur Arbeit.",
+    "exampleEnglish": "I go to work every day.",
+    "memoryTip": "'Arbeit' — think 'hard-bite' — work you have to bite into.",
+    "grammarNote": "Feminine noun. Plural: Arbeiten. Article: die.",
+    "tags": [
+      "noun",
+      "work",
+      "everyday",
+      "essential"
+    ]
+  },
+  {
+    "rank": 178,
+    "german": "der Freund",
+    "english": "the (male) friend / boyfriend",
+    "partOfSpeech": "noun",
+    "difficulty": "A2",
+    "pronunciation": "/fʁɔʏ̯nt/",
+    "exampleGerman": "Mein Freund kommt heute Abend.",
+    "exampleEnglish": "My friend is coming tonight.",
+    "memoryTip": "'Freund' sounds like 'friend' — they're cognates!",
+    "grammarNote": "Masculine noun. Plural: Freunde. Article: der.",
+    "usageNote": "Context determines friend vs. boyfriend.",
+    "tags": [
+      "noun",
+      "people",
+      "social",
+      "essential"
+    ]
+  },
+  {
+    "rank": 179,
+    "german": "die Freundin",
+    "english": "the (female) friend / girlfriend",
+    "partOfSpeech": "noun",
+    "difficulty": "A2",
+    "pronunciation": "/ˈfʁɔʏ̯ndɪn/",
+    "exampleGerman": "Ich treffe meine Freundin morgen.",
+    "exampleEnglish": "I am meeting my friend tomorrow.",
+    "memoryTip": "'Freundin' = Freund + -in (the feminine suffix in German).",
+    "grammarNote": "Feminine noun. Plural: Freundinnen. Article: die.",
+    "tags": [
+      "noun",
+      "people",
+      "social",
+      "essential"
+    ]
+  },
+  {
+    "rank": 180,
+    "german": "das Geld",
+    "english": "the money",
+    "partOfSpeech": "noun",
+    "difficulty": "A2",
+    "pronunciation": "/ɡɛlt/",
+    "exampleGerman": "Ich habe kein Geld.",
+    "exampleEnglish": "I have no money.",
+    "memoryTip": "'Geld' — related to 'gold'; money was once measured in gold.",
+    "grammarNote": "Neuter noun. No plural for the general concept. Article: das.",
+    "tags": [
+      "noun",
+      "money",
+      "essential",
+      "everyday"
+    ]
+  },
+  {
+    "rank": 181,
+    "german": "der Arzt",
+    "english": "the doctor (male)",
+    "partOfSpeech": "noun",
+    "difficulty": "A2",
+    "pronunciation": "/aːɐ̯t͡st/",
+    "exampleGerman": "Ich muss zum Arzt gehen.",
+    "exampleEnglish": "I have to go to the doctor.",
+    "memoryTip": "'Arzt' — think of the 'arts' of healing.",
+    "grammarNote": "Masculine noun. Plural: Ärzte. Feminine: Ärztin. Article: der.",
+    "tags": [
+      "noun",
+      "health",
+      "professions"
+    ]
+  },
+  {
+    "rank": 182,
+    "german": "das Krankenhaus",
+    "english": "the hospital",
+    "partOfSpeech": "noun",
+    "difficulty": "A2",
+    "pronunciation": "/ˈkʁaŋkənhaʊ̯s/",
+    "exampleGerman": "Er liegt im Krankenhaus.",
+    "exampleEnglish": "He is in hospital.",
+    "memoryTip": "'Kranken-haus' — 'krank' = sick, 'Haus' = house. A house for sick people.",
+    "grammarNote": "Neuter noun. Plural: Krankenhäuser. Article: das.",
+    "tags": [
+      "noun",
+      "health",
+      "places"
+    ]
+  },
+  {
+    "rank": 183,
+    "german": "die Schule",
+    "english": "the school",
+    "partOfSpeech": "noun",
+    "difficulty": "A2",
+    "pronunciation": "/ˈʃuːlə/",
+    "exampleGerman": "Die Kinder gehen zur Schule.",
+    "exampleEnglish": "The children go to school.",
+    "memoryTip": "'Schule' is almost identical to 'school'.",
+    "grammarNote": "Feminine noun. Plural: Schulen. Article: die.",
+    "tags": [
+      "noun",
+      "education",
+      "places",
+      "essential"
+    ]
+  },
+  {
+    "rank": 184,
+    "german": "der Lehrer",
+    "english": "the teacher (male)",
+    "partOfSpeech": "noun",
+    "difficulty": "A2",
+    "pronunciation": "/ˈleːʁɐ/",
+    "exampleGerman": "Unser Lehrer ist sehr nett.",
+    "exampleEnglish": "Our teacher is very nice.",
+    "memoryTip": "'Lehrer' from 'lehren' (to teach) + -er (one who does it).",
+    "grammarNote": "Masculine noun. Plural: Lehrer. Feminine: Lehrerin. Article: der.",
+    "tags": [
+      "noun",
+      "education",
+      "professions"
+    ]
+  },
+  {
+    "rank": 185,
+    "german": "der Zug",
+    "english": "the train",
+    "partOfSpeech": "noun",
+    "difficulty": "A2",
+    "pronunciation": "/t͡suːk/",
+    "exampleGerman": "Der Zug fährt um zehn Uhr ab.",
+    "exampleEnglish": "The train departs at ten o'clock.",
+    "memoryTip": "'Zug' also means 'pull' — a train pulls carriages behind it.",
+    "grammarNote": "Masculine noun. Plural: Züge. Article: der.",
+    "tags": [
+      "noun",
+      "transport",
+      "travel"
+    ]
+  },
+  {
+    "rank": 186,
+    "german": "das Auto",
+    "english": "the car",
+    "partOfSpeech": "noun",
+    "difficulty": "A2",
+    "pronunciation": "/ˈaʊ̯toː/",
+    "exampleGerman": "Ich fahre ein rotes Auto.",
+    "exampleEnglish": "I drive a red car.",
+    "memoryTip": "'Auto' comes from Greek 'autos' (self), as in automobile.",
+    "grammarNote": "Neuter noun. Plural: Autos. Article: das.",
+    "tags": [
+      "noun",
+      "transport",
+      "everyday"
+    ]
+  },
+  {
+    "rank": 187,
+    "german": "die Wohnung",
+    "english": "the apartment / the flat",
+    "partOfSpeech": "noun",
+    "difficulty": "A2",
+    "pronunciation": "/ˈvoːnʊŋ/",
+    "exampleGerman": "Meine Wohnung ist im dritten Stock.",
+    "exampleEnglish": "My apartment is on the third floor.",
+    "memoryTip": "'Wohn-ung' from 'wohnen' (to live/reside). The place where you reside.",
+    "grammarNote": "Feminine noun. Plural: Wohnungen. Article: die.",
+    "tags": [
+      "noun",
+      "home",
+      "places"
+    ]
+  },
+  {
+    "rank": 188,
+    "german": "laufen",
+    "english": "to run / to walk",
+    "partOfSpeech": "verb",
+    "difficulty": "A2",
+    "pronunciation": "/ˈlaʊ̯fən/",
+    "exampleGerman": "Ich laufe jeden Morgen im Park.",
+    "exampleEnglish": "I run in the park every morning.",
+    "memoryTip": "'Laufen' — think of 'loping' along at a run.",
+    "grammarNote": "Strong verb: lief, ist gelaufen. Uses sein as auxiliary.",
+    "usageNote": "In everyday speech, 'laufen' often just means to walk.",
+    "tags": [
+      "verb",
+      "movement",
+      "sport"
+    ]
+  },
+  {
+    "rank": 189,
+    "german": "treffen",
+    "english": "to meet / to hit",
+    "partOfSpeech": "verb",
+    "difficulty": "A2",
+    "pronunciation": "/ˈtʁɛfən/",
+    "exampleGerman": "Wir treffen uns um drei Uhr.",
+    "exampleEnglish": "We are meeting at three o'clock.",
+    "memoryTip": "'Treffen' — like 'trek' to meet someone.",
+    "grammarNote": "Strong verb: traf, hat getroffen. Reflexive: sich treffen = to meet each other.",
+    "tags": [
+      "verb",
+      "social",
+      "everyday"
+    ]
+  },
+  {
+    "rank": 190,
+    "german": "kochen",
+    "english": "to cook",
+    "partOfSpeech": "verb",
+    "difficulty": "A2",
+    "pronunciation": "/ˈkɔxən/",
+    "exampleGerman": "Ich koche gerne.",
+    "exampleEnglish": "I like to cook.",
+    "memoryTip": "'Kochen' — sounds like 'cook-en'; the -en is just the German infinitive ending.",
+    "grammarNote": "Regular: kochte, hat gekocht.",
+    "tags": [
+      "verb",
+      "food",
+      "everyday"
+    ]
+  },
+  {
+    "rank": 191,
+    "german": "die Gesundheit",
+    "english": "the health",
+    "partOfSpeech": "noun",
+    "difficulty": "B1",
+    "pronunciation": "/ɡəˈzʊnthaɪ̯t/",
+    "exampleGerman": "Gesundheit ist das Wichtigste.",
+    "exampleEnglish": "Health is the most important thing.",
+    "memoryTip": "'Ge-sund-heit' — 'gesund' = healthy; -heit makes it a noun. Also what Germans say when you sneeze!",
+    "grammarNote": "Feminine noun. No plural. Article: die.",
+    "tags": [
+      "noun",
+      "health",
+      "essential",
+      "culture"
+    ]
+  },
+  {
+    "rank": 192,
+    "german": "die Umwelt",
+    "english": "the environment",
+    "partOfSpeech": "noun",
+    "difficulty": "B1",
+    "pronunciation": "/ˈʊmvɛlt/",
+    "exampleGerman": "Wir müssen die Umwelt schützen.",
+    "exampleEnglish": "We must protect the environment.",
+    "memoryTip": "'Um-welt' — 'um' = around, 'Welt' = world. The world around you.",
+    "grammarNote": "Feminine noun. No plural. Article: die.",
+    "tags": [
+      "noun",
+      "environment",
+      "nature",
+      "modern"
+    ]
+  },
+  {
+    "rank": 193,
+    "german": "die Sprache",
+    "english": "the language / the speech",
+    "partOfSpeech": "noun",
+    "difficulty": "B1",
+    "pronunciation": "/ˈʃpʁaːxə/",
+    "exampleGerman": "Deutsch ist eine schwierige Sprache.",
+    "exampleEnglish": "German is a difficult language.",
+    "memoryTip": "'Sprache' — from 'sprechen' (to speak); a language is the system of speech.",
+    "grammarNote": "Feminine noun. Plural: Sprachen. Article: die.",
+    "tags": [
+      "noun",
+      "language",
+      "culture",
+      "essential"
+    ]
+  },
+  {
+    "rank": 194,
+    "german": "die Wirtschaft",
+    "english": "the economy / the business",
+    "partOfSpeech": "noun",
+    "difficulty": "B1",
+    "pronunciation": "/ˈvɪʁtʃaft/",
+    "exampleGerman": "Die Wirtschaft wächst wieder.",
+    "exampleEnglish": "The economy is growing again.",
+    "memoryTip": "'Wirt' is a host who manages resources — 'Wirtschaft' = the art of managing.",
+    "grammarNote": "Feminine noun. Plural: Wirtschaften. Article: die.",
+    "tags": [
+      "noun",
+      "economics",
+      "business",
+      "formal"
+    ]
+  },
+  {
+    "rank": 195,
+    "german": "der Grund",
+    "english": "the reason / the ground / the basis",
+    "partOfSpeech": "noun",
+    "difficulty": "B1",
+    "pronunciation": "/ɡʁʊnt/",
+    "exampleGerman": "Aus welchem Grund?",
+    "exampleEnglish": "For what reason?",
+    "memoryTip": "'Grund' = ground. A reason is the ground on which an argument stands.",
+    "grammarNote": "Masculine noun. Plural: Gründe. Article: der.",
+    "usageNote": "'Aus diesem Grund' = for this reason. Also literally means ground/bottom.",
+    "tags": [
+      "noun",
+      "abstract",
+      "essential",
+      "reasoning"
+    ]
+  },
+  {
+    "rank": 196,
+    "german": "obwohl",
+    "english": "although / even though",
+    "partOfSpeech": "conjunction",
+    "difficulty": "B1",
+    "pronunciation": "/ɔpˈvoːl/",
+    "exampleGerman": "Obwohl es regnet, gehe ich spazieren.",
+    "exampleEnglish": "Although it is raining, I am going for a walk.",
+    "memoryTip": "'Ob-wohl' — 'wohl' = well; concedes something seems fine but...",
+    "grammarNote": "Subordinating conjunction: sends verb to end of clause.",
+    "tags": [
+      "conjunction",
+      "grammar",
+      "essential",
+      "contrast"
+    ]
+  },
+  {
+    "rank": 197,
+    "german": "trotzdem",
+    "english": "nevertheless / anyway / still",
+    "partOfSpeech": "adverb",
+    "difficulty": "B1",
+    "pronunciation": "/ˈtʁɔt͡sdəm/",
+    "exampleGerman": "Es regnet, trotzdem gehe ich aus.",
+    "exampleEnglish": "It is raining; I am going out nevertheless.",
+    "memoryTip": "'Trotz-dem' — 'Trotz' = defiance; you're going ahead despite everything.",
+    "tags": [
+      "adverb",
+      "contrast",
+      "essential",
+      "grammar"
+    ]
+  },
+  {
+    "rank": 198,
+    "german": "allerdings",
+    "english": "however / though / admittedly",
+    "partOfSpeech": "adverb",
+    "difficulty": "B1",
+    "pronunciation": "/ˈalɐdɪŋs/",
+    "exampleGerman": "Das ist gut, allerdings teuer.",
+    "exampleEnglish": "That is good, though expensive.",
+    "memoryTip": "'Aller-dings' — 'aller Dinge' = 'of all things'; introduces a qualification.",
+    "tags": [
+      "adverb",
+      "contrast",
+      "formal",
+      "grammar"
+    ]
+  },
+  {
+    "rank": 199,
+    "german": "aufgrund",
+    "english": "because of / due to / on account of",
+    "partOfSpeech": "preposition",
+    "difficulty": "B1",
+    "pronunciation": "/ˈaʊ̯fɡʁʊnt/",
+    "exampleGerman": "Aufgrund des schlechten Wetters bleiben wir zu Hause.",
+    "exampleEnglish": "Because of the bad weather we are staying home.",
+    "memoryTip": "'Auf-grund' — literally 'on the basis of'; on the ground of a reason.",
+    "grammarNote": "Followed by genitive: aufgrund des Problems.",
+    "tags": [
+      "preposition",
+      "grammar",
+      "formal",
+      "causal"
+    ]
+  }
+]
